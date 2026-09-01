@@ -222,3 +222,20 @@ found more new things, not just more old ones.** §4 reconciles with Finding 16:
 class level scheduling is followed by a substitute class, while the total rate stays
 steady, so the supply is reshuffled rather than reduced. §5 records that 2022's
 OCR-derived figures were independently confirmed by arithmetic before use.
+
+## Finding 18 — We saw this coming
+`FINDING_18_we_saw_this_coming.md` — **CONFIRMED [P] from the company's own live page.**
+A 7-OH manufacturer's storefront, headed "7-HYDRO, OXONOL, & PSEUDO BAN": **"We Saw
+This Coming. We're Just Getting Started."** In their words, they put "real R&D into
+anticipating exactly this kind of regulatory shift — reformulating, retesting, and
+rebuilding our lineup so we're ready to move the moment the rules do. This isn't a fire
+drill. **It's a plan we've been executing for months.**" The site carries a navigation
+category called **"7-OH ALTERNATIVES"**; two of the three items in it were scheduled
+alongside 7-OH, and subscribers on affected products get switched to the survivor
+automatically — **"no interruption, no hassle"** — while the banned stock sells under
+**"Get It While It Lasts."** **Everything quoted is lawful and public, which is the
+point:** the conduct that defeats a scheduling regime is legal, advertised and
+rational. Findings 16 and 17 could only infer substitution from forensic data after the
+fact; here the supplier states it in advance. Opened on Puckett's recollection of a
+manufacturer video, which is recorded as **[U], not located**, with nothing resting on
+it.

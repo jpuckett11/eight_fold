@@ -1,0 +1,24 @@
+# EIGHTFOLD / manufacturer substitution-planning exhibit
+# captured 2026-08-31 by Aegis.
+#
+# realbotanicals_federal_ban_page_20260831.html / .txt
+#   https://realbotanicals.com/pages/federal-ban   HTTP 200, 500,191 bytes.
+#   Titled "7-HYDRO, OXONOL, & PSEUDO BAN".
+#   The .txt is a tag-stripped extraction of the same capture.
+#
+# WHY THIS MATTERS: it is a manufacturer stating, in its own commercial copy,
+# that it planned for the scheduling action in advance and has replacement
+# formulations ready. Quoted in FINDING_18.
+#
+# THIS IS A LIVE COMMERCIAL PAGE AND WILL CHANGE. The capture is the record.
+# A Wayback snapshot could NOT be made or checked: web.archive.org was
+# unreachable from this host across five separate attempts this session
+# (timeouts at 100s, 135s, 134s, 134s, 136s). Re-attempt when it is up, so an
+# independent third-party copy exists alongside ours.
+#
+# NOT OBTAINED: the video Jay Puckett described, in which a 7-OH manufacturer's
+# owner says on camera that he already has a replacement ready if 7-OH is
+# outlawed. Searched and not located. It is recorded as an UNVERIFIED LEAD in
+# FINDING_18 sec 5 and no claim rests on it. The written page above corroborates
+# the SUBSTANCE of his recollection independently; it does not confirm the video,
+# the speaker, or the company.
