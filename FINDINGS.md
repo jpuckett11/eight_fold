@@ -156,3 +156,18 @@ adequacy fell 59% to 43%. **Tests Puckett's childhood claim and it holds:** the 
 Study's 4-to-12-fold graded risk for drug abuse and alcoholism, and 63% of US adults
 carrying at least one ACE. Keeps allegations as allegations; Walmart's answer is not
 yet pulled and that is action item 1.
+
+## Finding 14 — The second prohibition
+`FINDING_14_the_second_prohibition.md` — **CONFIRMED [P] across 860,000+ patients.**
+Agnoli, JAMA 2021, n=113,618 stable on ≥50 MME for a year: tapering associated with
+**9.3 vs 5.5 overdose events per 100 person-years (aIRR 1.68)** and **7.6 vs 3.3
+mental health crises (aIRR 2.28)** — and **faster tapers were worse in a
+dose-response**, aIRR 1.09/1.18 per 10% increase in reduction velocity. JAMA Netw Open
+2022 finds the elevation persists **two years**. In March 2019, **318 clinicians and
+three former drug czars** wrote to CDC about "widespread misapplication" of the 2016
+guideline; FDA and CDC issued corrections weeks later. **§4 carries the challenge:** a
+2026 JGIM within-individual study of **732,038** finds much of the risk escalation may
+*precede* the taper. The velocity gradient survives that. **No count exists of people
+who lost legitimate treatment and died** — the cohorts are insured-population only, so
+the harms are visible for the least vulnerable people affected. Answers Puckett's
+question of Finding 13 and is the spine connecting SEVENFOLD 55 and 56 to EIGHTFOLD.

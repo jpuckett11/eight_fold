@@ -1,0 +1,22 @@
+# EIGHTFOLD / opioid tapering and access-harm exhibits
+# captured 2026-08-31 via NCBI E-utilities (PubMed).
+#
+# pubmed_tapering_key_results.xml  -- the three quantitative studies:
+#   PMID 34342618  Agnoli et al., JAMA 2021. n=113,618, 203,920 stable baseline
+#                  periods, OptumLabs 2008-2019.
+#   PMID 35696163  JAMA Netw Open 2022. 21,515 tapering events, 19,377 patients,
+#                  exposure-crossover, follow-up to 2 years.
+#   PMID 42343056  J Gen Intern Med 2026. n=732,038, within-individual design.
+#                  THIS ONE CUTS AGAINST THE SIMPLE READING and is quoted as such.
+#
+# pubmed_tapering_corpus.xml -- supporting set incl.
+#   PMID 31361588  Subst Abus 2019, the letter to CDC signed by 318 clinicians and
+#                  three former ONDCP directors on misapplication of the guideline.
+#   PMID 34115134  JAMA Netw Open 2021, unintended consequences of the 2016 CDC
+#                  guideline.
+#   PMID 32909223  Int J Clin Pharm 2021, misapplication commentary.
+#   PMID 36749586  JAMA Netw Open 2023, tapering and disruption of care for
+#                  comorbid conditions.
+#
+# LIMIT: published abstracts, not microdata; all the quantitative studies are
+# OBSERVATIONAL and the JAMA authors say so themselves in the text quoted.
