@@ -36,3 +36,17 @@
 #   HTML stripped; the .json is the unmodified API record.
 #   DOJ's own closing line, carried into FINDING_12: "The claims resolved by the
 #   settlement are allegations only; there has been no determination of liability."
+
+# --- added 2026-08-31, THE AMENDED COMPLAINT ---
+# us_v_walmart_amended_complaint_d75_20221007.pdf/.txt
+#   United States v. Walmart Inc. and Wal-Mart Stores East, LP
+#   No. 1:20-cv-01744-CFC, D. Del.  Docket entry #75, filed 2022-10-07. 204 pages.
+#   Obtained FREE from the RECAP archive via CourtListener, NOT from paid PACER:
+#     API: courtlistener.com/api/rest/v4/docket-entries/?docket=19797673
+#     File: storage.courtlistener.com/recap/gov.uscourts.ded.74141/gov.uscourts.ded.74141.75.0.pdf
+#   CHAIN OF CUSTODY: CourtListener records sha1 e9022ed54516c882b735421439dfed100100dfaa
+#   for this document. The downloaded file's sha1 MATCHES EXACTLY. Verified 2026-08-31.
+#   Docket also shows entry #315, Stipulation of Dismissal, 2026-08-27 -- CASE CLOSED,
+#   which is the settlement DOJ announced 2026-08-28.
+#   The .txt is a pdftotext extraction, 8,250 lines, used for the quotations in
+#   FINDING_13. Paragraph numbers in that finding are the complaint's own.

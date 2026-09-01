@@ -1,0 +1,16 @@
+# EIGHTFOLD / childhood adversity exhibits
+# captured 2026-08-31 via NCBI E-utilities (PubMed).
+#
+# pubmed_ace_original_and_economic_burden.xml
+#   PMID 31104722 -- Felitti et al., the original ACE Study, reprinted Am J Prev Med
+#     2019. 13,494 adults surveyed, 9,508 responded (70.5%).
+#   PMID 38055277 -- JAMA Network Open 2023, economic burden of ACE-associated
+#     health conditions. BRFSS 2019-2020, 820,673 adults representing 255 million.
+#
+# pubmed_aces_substance_use.xml
+#   Supporting set incl. PMID 34788586 (dose-response, opioid misuse risk, n=1,402)
+#   and PMID 36752932 (community mental health clinic, n=856, 40% with 4+ ACEs).
+#
+# LIMIT: these are published abstracts, not microdata. The ACE Study is
+# cross-sectional and retrospective, and recall of childhood adversity by adults
+# who already have poor outcomes is a known bias. FINDING_13 states it.

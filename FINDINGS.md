@@ -140,3 +140,19 @@ adults who actually perceive an unmet need** — with the counterweight stated, 
 improper payments are misdirected appropriations, not an available pot. Pushes back on
 "simple mistake": 19 programs run error rates over 10%, six over 25%, and half the
 responsible agencies fail to comply with the law requiring them to measure it.
+
+## Finding 13 — Ninety thousand forms
+`FINDING_13_ninety_thousand_forms.md` — **CONFIRMED [P] from the amended complaint,
+SHA1-verified against CourtListener's record.** US v. Walmart, D. Del. 1:20-cv-01744,
+entry #75, 204 pages, pulled free from RECAP rather than paid PACER. DOJ's release
+said "thousands" of refusal-to-fill forms; **the complaint says more than 90,000 in 43
+months** — about 70 a day. And Walmart's own POM 1311 **prohibited pharmacists from
+blanket refusing to fill for a prescriber** until 2015, so the volume is the arithmetic
+of a policy that made every pharmacist re-fight the same pill mill daily. The man
+responsible for the forms wrote that analysis had stopped because the reporting
+agreement was "virtually over," and called overdose kits **"More BS."** Only
+patient-safety metric on the Weekly Key Metrics report was input accuracy; staffing
+adequacy fell 59% to 43%. **Tests Puckett's childhood claim and it holds:** the ACE
+Study's 4-to-12-fold graded risk for drug abuse and alcoholism, and 63% of US adults
+carrying at least one ACE. Keeps allegations as allegations; Walmart's answer is not
+yet pulled and that is action item 1.
