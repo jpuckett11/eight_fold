@@ -247,9 +247,14 @@ Author `Reckoner / Jay Puckett`, no co-author line.
 **Remote: `https://github.com/jpuckett11/eight_fold` — PRIVATE, verified before and
 after push. 0 forks, Jay the only collaborator. Remote HEAD matches local.**
 
-**Private is staging, not embargo. Jay: "eight fold will be public in the end."**
-What gates it: "overreaction" is [U] and barred from output; Lester Young is [S];
-the 40,000 collateral-consequences figure is unverified; four open pulls outstanding.
+**NOTHING GATES THIS CASE. It is not embargoed material.** Jay, 2026-08-31:
+*"nothing gates 8fold, not embargo mats."* Private is only where the repo sits today.
+He says it goes public in the end, and that is his call to make whenever he likes.
+
+**The [U] and [S] tags in the findings are accuracy labels, not permissions** — they
+mark what is established and what is not, and the case publishes fine with them in
+place, because the labels are the honesty. The four open pulls are work still to do,
+not conditions on release.
 
 **LOOSE END FOR JAY, NOT FOR AEGIS:** `jpuckett11/ObsidianGroup_Eightfold` holds an
 identical copy at the same commit. Aegis created it before Jay made `eight_fold`.
