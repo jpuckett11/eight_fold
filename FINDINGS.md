@@ -201,3 +201,19 @@ what he believed was **alprazolam** and got N-propionitrile chlorphine, fentanyl
 xylazine. **Fentanyl co-positivity is most frequent in Tennessee**, and Knoxville PD
 seized the first-ever US identification of 5-chloro desmethyl chlorphine in May 2026.
 §7 records that the full NFLIS alert series was NOT obtained and why.
+
+## Finding 17 — The market is not inventing faster
+`FINDING_17_the_market_is_not_inventing_faster.md` — **CONFIRMED [P], and it partially
+contradicts the simple version of this case file's own thesis.** CFSRE NPS Discovery,
+NIJ-funded, 2021-2025: new NPS discovered per year runs **27, 21, 17, 20, 27 — flat.**
+But total detections went **>2,700 to >5,700 (+111%)** and distinct NPS in circulation
+per year **97 to 134 (+38%)**. **The market is not inventing faster; nothing ever
+leaves the catalogue.** That is a weaker claim than "prohibition breeds new drugs" and
+a harder one to answer, because it needs no causal story — only that supply persists
+and variety accumulates. §3 handles the control problem head on: CFSRE's own funding
+and capacity grew across the window, so the detection rise is partly capacity — **but
+the flat first-discovery line survives that, and a better-resourced lab should have
+found more new things, not just more old ones.** §4 reconciles with Finding 16: at
+class level scheduling is followed by a substitute class, while the total rate stays
+steady, so the supply is reshuffled rather than reduced. §5 records that 2022's
+OCR-derived figures were independently confirmed by arithmetic before use.

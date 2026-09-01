@@ -1,0 +1,27 @@
+# EIGHTFOLD / CFSRE NPS Discovery trend series
+# captured 2026-08-31 from https://www.cfsre.org/nps-discovery/trend-reports  (HTTP 200)
+#
+# cfsre_yir2021.pdf .. cfsre_yir2025.pdf   Year in Review, 2021-2025
+# cfsre_q2_2026.pdf                        2026 Q2 trend report
+#
+# NPS Discovery is CFSRE's open-access drug early warning system, funded in part by
+# the National Institute of Justice (Award 15PNIJ-22-GG-04434-MUMU; earlier
+# 2020-DQ-BX-0007). Cite as Krotulski, Papsun, Walton et al.
+#
+# FIGURES USED IN FINDING_17, read from the reports' own summary paragraphs:
+#   year   cumulative-new-since-2018 / new-that-year / distinct-NPS-detected /
+#          total-detections
+#   2021   116 / 27 /  97 / >2,700
+#   2022   137 / 21 /  76 / >2,200
+#   2023   154 / 17 /  79 / >3,600
+#   2024   174 / 20 / 103 / >5,200
+#   2025   201 / 27 / 134 / >5,700
+#
+# CROSS-CHECK PERFORMED: the 2022 PDF has a thin text layer, so its figures were
+# read by OCR (pdftoppm 200dpi + tesseract). OCR returned "137 newly discovered"
+# and 76 detected. Independently, 2022's new count derives arithmetically from the
+# 2023 report as 154 - 17 - 116 = 21, and 116 + 21 = 137. THE OCR AND THE
+# ARITHMETIC AGREE. Neither was accepted alone.
+#
+# NOT USED: the 2026 Q2 report's text layer yielded no summary paragraph to the
+# same grep; it is captured but no figure is drawn from it in FINDING_17.
