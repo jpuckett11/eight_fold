@@ -125,3 +125,18 @@ and **Walmart agreed to pay $50M for illegally filling unlawful opioid prescript
 on 2026-08-28, three days ago.** Corrects the framing of Finding 10 §5, which measured
 improper payments when Puckett meant corporate fraud. Keeps "recovered", "alleged" and
 "stolen" distinct.
+
+## Finding 12 — A far better use of our time
+`FINDING_12_a_far_better_use_of_our_time.md` — **CONFIRMED [P] from DOJ's own release,
+dated 2026-08-28.** Walmart's own pharmacists filed **thousands of "refusal-to-fill"
+forms** naming pill-mill prescribers; DOJ alleges the compliance team knew and filled
+anyway, because a director wrote that reading them was worse use of staff time than
+**"[d]riving sales and patient awareness."** Conduct since 2013-06-26, complaint filed
+2020, **$50M**, and DOJ's own line: "allegations only; there has been no determination
+of liability." $50M is **0.26% of SAMHSA's annual grants** and **2.5 hours** of federal
+improper payments. Tests Puckett's funding claim: one year of improper payments =
+**9.8 years of SAMHSA's entire grant program**, or **$103,333 for every one of the 1.8M
+adults who actually perceive an unmet need** — with the counterweight stated, that
+improper payments are misdirected appropriations, not an available pot. Pushes back on
+"simple mistake": 19 programs run error rates over 10%, six over 25%, and half the
+responsible agencies fail to comply with the law requiring them to measure it.

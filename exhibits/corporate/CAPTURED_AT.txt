@@ -27,3 +27,12 @@
 #   - Good Jobs First Violation Tracker, the comprehensive corporate penalty
 #     database, returns a Cloudflare "Just a moment..." interstitial to scripted
 #     fetch. It would give per-company totals. Needs a browser.
+
+# --- added 2026-08-31, the Walmart matter ---
+# doj_walmart_50m_settlement_20260828.json / .txt
+#   https://www.justice.gov/opa/pr/walmart-agrees-pay-50-million-illegally-filling-unlawful-opioid-prescriptions
+#   Retrieved through the DOJ press-release API (full body included in the JSON
+#   record). Dated 2026-08-28, THREE DAYS before capture. The .txt is the body with
+#   HTML stripped; the .json is the unmodified API record.
+#   DOJ's own closing line, carried into FINDING_12: "The claims resolved by the
+#   settlement are allegations only; there has been no determination of liability."
