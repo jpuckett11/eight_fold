@@ -70,3 +70,16 @@ employment-specific projects and **reports every one at $0** — a RePORTER arti
 recovery program in the federal government invisible to any dollar-weighted analysis.
 **Excludes SAMHSA block grants and the ~$50B opioid settlement, which is the next pull.**
 Also records a discarded 100%-noise result that would have flattered the thesis.
+
+## Finding 08 — A third of it is untrackable
+`FINDING_08_a_third_of_it_is_untrackable.md` — **[S] throughout**, KFF Health News +
+Johns Hopkins + Shatterproof, not independently pulled. **$58.58B** global settlement
+(OpioidSettlementTracker, 2026-04-14, CC BY-NC-SA, credit Christine Minhee required).
+Of the **$6B+** received in 2022-23, about a third was spent or committed, a third set
+aside, and **the final third is untrackable because jurisdictions filed no public
+report**. **12 states promised 100% transparency; 7 delivered.** $240M+ went to
+non-remediation purposes, mostly legal fees, one county to its road and bridge
+department. **But the allocation cuts against expectation: 18% treatment and 14%
+recovery services (housing, transportation, legal aid) is far closer to parity than
+NIH's 7-to-17:1 in Finding 07.** The states are allocating nearer to what Finding 02's
+evidence supports than the federal research portfolio does.

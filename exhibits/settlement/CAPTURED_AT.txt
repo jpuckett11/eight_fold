@@ -1,0 +1,41 @@
+# EIGHTFOLD / opioid settlement exhibits
+# captured 2026-08-31 by Aegis. All HTTP 200.
+#
+# ost_global_settlement_tracker.html
+#   https://www.opioidsettlementtracker.com/globalsettlementtracker
+#   VERBATIM: "as of April 14, 2026: Pending finalization of Albertsons' $774
+#   million opioid settlement, the Global Settlement Total will be $58.58 billion."
+#   ATTRIBUTION IS REQUIRED BY LICENSE. CC BY-NC-SA 4.0; the site requires credit to
+#   "Christine Minhee, J.D., OpioidSettlementTracker.com" and that derivative work be
+#   licensed on identical non-commercial terms. Any OWG artifact quoting this must
+#   carry that credit. Note the license constrains COMMERCIAL reuse.
+#
+# kff_payback_database_20241216.html
+#   https://kffhealthnews.org/public-health/opioid-settlement-funds-detailed-database-state-county-city-spending/
+#   KFF Health News + Johns Hopkins Bloomberg School of Public Health + Shatterproof.
+#   Aneri Pattani, 2024-12-16. Source of the thirds, the category shares, the $240M
+#   non-remediation figure and the itemized examples quoted in FINDING_08.
+#
+# kff_12states_transparency_20241107.html
+#   https://kffhealthnews.org/public-health/state-opioid-settlement-funds-transparency-update/
+#   Aneri Pattani, 2024-11-07. "12 States Promised 100% Transparency on Opioid
+#   Settlements. 7 Delivered." as of 2024-10-09. Names all twelve.
+#
+# jhu_national_dashboard_expenditures.html
+#   https://opioidprinciples.jhsph.edu/national-dashboard/
+#   "Between 2022-2023, state and local governments received an estimated $6 Billion
+#   in Opioid Settlement Funds. In 2024, over $6.5 Billion were received."
+#
+# nationalopioidsettlement_official.html
+#   https://nationalopioidsettlement.com/  The Plaintiffs' Executive Committee site.
+#   Names the settling defendants: Janssen, Cardinal, McKesson, AmerisourceBergen,
+#   Teva, Allergan, CVS, Walgreens, Walmart, Kroger, Purdue/Sacklers, and the
+#   Generic Manufacturers.
+#
+# PROVENANCE NOTE, IMPORTANT: the KFF/JHU/Shatterproof figures are [S]. They are
+# secondary reporting built from primary state expenditure filings that OWG has NOT
+# independently pulled. The underlying line-item database is public and pulling it
+# is the next step; until then every number sourced here is labeled [S].
+#
+# NOT CAPTURED: a figure of "$57.7 billion allocated as of July 10, 2026" appeared
+# in a search-result summary. No primary was retrieved for it. It is NOT used.
