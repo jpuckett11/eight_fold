@@ -97,3 +97,18 @@ prevention $2.53M, admin/salaries $0.95M, housing $0.73M, police/jail $0.72M,
 programs. **Discards a $4.016B keyword artifact**, the second such catch of the night.
 Section 7 lists all seven blocked pulls: every one is a login, a form or a browser,
 not a research problem.
+
+## Finding 10 — Two states and the denominator
+`FINDING_10_two_states_and_the_denominator.md` — **[P] on the states, [S] on the
+comparison.** Oregon FY2024-25 disbursed **78.2%** of local settlement money
+($23.81M of $30.46M); Indiana FY2023 spent **10.1%**. The national "about a third"
+is the midpoint of two different behaviors, not a typical state. **56% of Oregon's
+local spending went to supporting people in treatment and recovery and connecting
+them to care**, and Oregon's own report names the mechanism — "recovery capital such
+as employment opportunities, housing, and community connections" — at $13.32M.
+**But employment is not an Exhibit E category in either state**: it was never on the
+form. Puckett's scale claim, quantified: federal improper payments were **$186B in
+FY2025 alone** (GAO-26-108694) against **$58.58B** for the entire 20-year settlement
+— **the government mis-pays the whole settlement every ~115 days**, and the 24
+employment-titled SAMHSA grants equal about **three and a half hours** of it. Keeps
+"improper" distinct from "stolen."

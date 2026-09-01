@@ -1,0 +1,21 @@
+# EIGHTFOLD / scale-comparison exhibit
+# captured 2026-08-31.
+#
+# GAO-26-108694, "Payment Integrity: Agencies' Estimated Improper Payments
+# Increased to $186 Billion in Fiscal Year 2025", published 2026-04-27.
+#   https://www.gao.gov/products/gao-26-108694
+#   VERBATIM: "15 agencies reported a total estimate of about $186 billion in
+#   improper payments across 64 programs"; "$24 billion more in improper payment
+#   estimates" than FY2024; "Since fiscal year 2003, cumulative improper payment
+#   estimates...have totaled about $3 trillion".
+#   Also: ~82% of the $186B (~$153B) were OVERPAYMENTS; 19 programs had improper
+#   payment rates of at least 10%, six exceeded 25%; IGs found only half of the 24
+#   agencies reporting the majority of improper payments fully complied with the
+#   Payment Integrity Information Act in FY2024.
+#
+# CAPTURE LIMIT, STATED: gao.gov returns HTTP 403 (Akamai) to scripted fetch, so
+# the PDF itself is NOT in this directory. The quotes above were retrieved through
+# a rendering fetch of the GAO product page. They are [S] pending a captured
+# primary. paymentaccuracy.gov, the official OMB/Treasury site, is a single-page
+# app that serves the same 23KB shell for every path including /api and /data --
+# no server-side figures are reachable. Both need a browser.

@@ -60,3 +60,21 @@
 #
 # NOT OBTAINED: Arizona FY2023 state report. The URL cited by KFF
 #   (azag.gov/.../FY2023 STATE REPORT - Revised.xlsx) now returns HTTP 404.
+
+# --- added 2026-08-31, SECOND primary state filing ---
+# oregon_settlement_spending_report_fy2024_25.pdf / .txt
+#   https://www.oregon.gov/oha/PH/PREVENTIONWELLNESS/SUBSTANCEUSE/OPIOIDS/Documents/opioid-settlement-spending-report-fy-2024-25.pdf
+#   HTTP 200, 4,171,755 bytes, 147 pages. Oregon Health Authority, FY 2024-2025
+#   (July 1 2024 - June 30 2025). PRIMARY. Text layer extracted with
+#   pdftotext -layout; figures in FINDING_10 are read from it directly.
+#   Note it is a LATER period than the Indiana filing (FY2023), so the two states
+#   are NOT compared on identical years. That limit is stated in the finding.
+#
+# STATE URLS THAT FAILED, so nobody re-guesses them:
+#   Massachusetts ORRF 2023 annual report -- mass.gov/doc/2023-annual-report-orrf-0
+#     returns HTTP 403 to scripted fetch. MA publishes an interactive municipal
+#     dashboard instead; it needs a browser.
+#   California DHCS FY22-23 reports page -- returns a 212-byte stub to curl. The
+#     "Data Companion" spreadsheets are referenced but not linkable server-side.
+#   Indiana Attachment B (state-level report) -- 404. Only Attachment A, the local
+#     units report, is at the path in this directory.
