@@ -1,0 +1,23 @@
+# EIGHTFOLD / Real Botanicals certificates of analysis
+# captured 2026-08-31 from https://realbotanicals.com/pages/coas (HTTP 200), which
+# links 14 COA PDFs on cdn.shopify.com. Eight were pulled; all HTTP 200.
+# Issuing laboratory on every one: Wonderland Labs, 1341 Distribution Way Ste 16,
+# Vista CA 92081. Client: Real Botanicals, 201 Tom Hall St, Fort Mill SC 29716.
+#
+#   realbotanicals_acend_july.pdf        Acend, acquired 07/26/2026, method MIT-EVO_R2026-PT
+#   realbotanicals_7hydro_10mg_aug.pdf   RB10MGRP lot 12827, 01 AUG 2025, MIT-EVO_R2025-01
+#   realbotanicals_7hydro_20mg_aug.pdf   RB20 series, Aug 2025
+#   realbotanicals_7hydro_40mg.pdf       RB40PR lot B-0235-01-004, 22 AUG 2025
+#   realbotanicals_7hydro_shot.pdf       7-Hydro Shot
+#   realbotanicals_100mg_blue_razz.pdf   RB100BR, 26 JUNE 2026, MIT-EVO_R2026-PT
+#   realbotanicals_cap_150mg.pdf / _cap_225mg.pdf   kratom capsules
+#
+# UNIT DEFECT FOUND AND RECONCILED BEFORE USE: the potency column is headed
+# "Total %" but carries unit labels of "mg/g" or "mg/tab". Read as PERCENT OF
+# PRODUCT WEIGHT, every value lands on its own product label:
+#   1.85% x 502mg  =  9.3 mg  (10mg product)
+#   7.28% x 517mg  = 37.6 mg  (40mg product)
+#  15.30% x 625mg  = 95.6 mg  (100mg product)
+#   2.15% x 580mg  = 12.5 mg  (Acend summary states "Mitragynine Content: 12 mg/tab")
+# The column is percent and the unit labels are wrong. FINDING_19 uses the
+# reconciled mg/tablet figures and states this.

@@ -239,3 +239,18 @@ rational. Findings 16 and 17 could only infer substitution from forensic data af
 fact; here the supplier states it in advance. Opened on Puckett's recollection of a
 manufacturer video, which is recorded as **[U], not located**, with nothing resting on
 it.
+
+## Finding 19 — Not the same drug, and that is the problem
+`FINDING_19_not_the_same_drug_and_that_is_the_problem.md` — **CONFIRMED [P] from eight
+published COAs.** Reconciled a unit defect first: the potency column is headed "Total %"
+but labelled mg/g or mg/tab; read as percent of product weight every value lands on its
+label. Per tablet: **7-Hydro delivers 9.3 / 37.6 / 95.6 mg of 7-OH with mitragynine
+essentially absent — these are 7-OH isolates, not kratom extracts.** Acend is the
+inverse: **7-OH below LOD**, mitragynine 12.5 mg, plus speciogynine, paynantheine and
+speciociliatine — a genuine plant extract. **So Acend is NOT rebranded 7-OH and this
+file says so.** What survives: the Acend COA runs an eleven-analyte panel that added
+**9-Hydroxycorynantheidine, 10-hydroxycorynantheidine, 7-acetoxymitragynine and
+9-fluoro-7-hydroxymitragynine — every one marked N/T, Not Tested.** SEVENFOLD Finding
+27 established 9-OH as a major human metabolite of mitragynine (36% of total
+metabolism, "similar pharmacologic activity") named in no federal instrument. **It is
+printed on the successor product's certificate and left blank.** No intent is alleged.

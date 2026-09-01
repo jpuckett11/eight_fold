@@ -1,0 +1,53 @@
+                                               Certificate of Analysis
+                                                               26 JUNE 2026
+                                                                   RB100BR
+  1341 Distribution Way 16, Vista CA 92081
+www.Wonderland-Labs.com | (800) 647-3154
+                                                                  LOT #: N/A
+
+ Client:                             Real Botanicals                       SAMPLE SET:                          240350
+ Client Address:                     201 Tom Hall St., PO Box 873          Prepped By:                          Aimee B.
+                                     Fort Mill, SC 29716                   Date Received:                       06/18/2026
+ Sample Matrix:                      Kratom                                Acquisition Method:                  MIT-EVO_R2026-PT
+ Sample Type:                        Powder                                Testing ID:                          240350_0002.D
+ Product Size:                       0.625g/tablet                         Date Tested:                         06/18/2026
+                         ------------------------- ID/POTENCY -------------------------
+ #            Analyte                  Formula                 Analytical Method(s)                     Total %                 Unit
+ 1     Mitragynine                   C23H30N2O4           HPLC (Adapted Mudge & Brown, 2020*)             N/D                   mg/g
+ 2     7-Hydroxymitragynine          C23H30N2O5           HPLC (Adapted Mudge & Brown, 2020*)            15.30                  mg/g
+ 3     Paynantheine                  C23H28N2O4           HPLC (Adapted Mudge & Brown, 2020*)             N/D                   mg/g
+ 4     Speciogynine                  C23H30N2O4           HPLC (Adapted Mudge & Brown, 2020*)             N/D                   mg/g
+ 5     Speciociliatine               C23H30N2O4           HPLC (Adapted Mudge & Brown, 2020*)             N/D                   mg/g
+
+                         ------------------------- BIOLOGICAL -------------------------
+ #              Analyte                  Spec                    Result                         Method                       Sample Size
+ 1     Aerobic Plate Count         < 10,000,000 cfu/g        < 100,000 cfu/g            0973-00 Petrifilm 2025-41               10g
+ 2     Coliforms                     < 10,000 cfu/g          < 10,000 cfu/g             0973-00 Petrifilm 2025-41               10g
+ 3     Entereobateriaceae            < 10,000 cfu/g          < 10,000 cfu/g             0973-00 Petrifilm 2025-41               10g
+ 5     Yeast & Mold                 <100,000 cfu/g           <100,000 cfu/g              0972-00 Soleris 2025-41                10g
+ 6     Staphylococcus                Absent in 10g               Absent                 0973-00 Petrifilm 2025-41               10g
+ 7     E. coli                       Absent in 10g               Absent                  0972-00 Soleris 2025-41                10g
+ 8     Salmonella                    Absent in 10g               Absent                  0972-00 Soleris 2025-41                10g
+
+                       ------------------------- HEAVY METALS -------------------------
+          Product #                          Lot #                  Metals                  Spec                         Results
+                                                                    Arsenic              < 10,000 ppb                    30 ppb
+                                                                   Cadmium               < 4,100 ppb                     20 ppb
+           RB100BR                            N/A
+                                                                     Lead                 < 900 ppb                      190 ppb
+                                                                   Mercury                < 300 ppb                      10 ppb
+
+
+                            mg /tab96
+        7OH Content: ________________                                                            SEAL OF AUTHENTICITY
+
+                       Within Spec
+                                                                                                    VERIFIED BY:
+       Heavy Metals: ________________
+                       Within Spec
+                                                                                                 Quality Assurance:
+          Biological: ________________
+* Method conforms to AOAC methods for Microbial and Kratom Working Group SMPRs for mitragynine and 7-OH w/internal lab method MIT-EVO_R2025-01.
+                       ** LOD for7-Hydroxymitragynine (7-OH) is 0.1ppm and N/D on this COA indicates a value below the LOD.
+       Sample(s) examined visually and under low-power magnification. No visible or microscopic harmful foreign matter observed. | Page 1 of 1
+

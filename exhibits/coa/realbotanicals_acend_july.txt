@@ -1,0 +1,49 @@
+                                                        Certificate of Analysis
+                                                                      RBACCEND
+                                                                   LOT #: TZE TABLETS
+   1341 Distribution Way 16, Vista CA 92081
+ www.Wonderland-Labs.com | (800) 647-3154
+
+
+   CLIENT:                                Real Botanicals                        SAMPLE SET:                             243420
+   Address:                               201 Tom Hall St.                       Prepped By:                             Keith C.
+   Address:                               Fort Mill, SC 29716                    Date Acquired:                          07/26/2026
+   Dilution:                              1:1                                    Acquisition Method:                     MIT-EVO_R2026-PT
+   Sample Matrix:                         Powder                                 Testing ID:                             243420_0001.D
+   Sample Weight:                         2000mg                                 Date Processed:                         07/26/2026
+   Product Weight:                        580mg                                  Calibration ID:                         CALI-244-2026
+
+  #               Analyte                       Formula                  Analytical Method(s)                        Total %                Unit
+  1       Mitragynine                         C₂₃H₃₀N₂O₄             HPLC (Adapted Mudge & Brown, 2020*)               2.15                mg/tab
+  2       7-Hydroxymitragynine                C₂₃H₃₀N₂O₅             HPLC (Adapted Mudge & Brown, 2020*)               N/D                 mg/tab
+  3       MGM-15 (semi-synthetic)             C₂₃H₃₀N₂O₅             HPLC (Adapted Mudge & Brown, 2020*)               N/D                 mg/tab
+  4       Mitragynine Pseudoindoxyl           C₂₃H₃₀N₂O₅             HPLC (Adapted Mudge & Brown, 2020*)               N/D                 mg/tab
+  5       Speciogynine                        C₂₃H₂₈N₂O₄             HPLC (Adapted Mudge & Brown, 2020*)               3.81                mg/tab
+  6       Paynantheine                        C₂₃H₃₀N₂O₄             HPLC (Adapted Mudge & Brown, 2020*)               1.32                mg/tab
+  7       Speciociliatine                     C₂₃H₃₀N₂O₄             HPLC (Adapted Mudge & Brown, 2020*)               0.90                mg/tab
+  8       9-Hydroxycorynantheidine            C₂₂H₂₈N₂O₄             HPLC (Adapted Mudge & Brown, 2020*)               N/T                 mg/tab
+  9       10-Hydroxycorynantheidine           C₂₃H₃₀N₂O₄             HPLC (Adapted Mudge & Brown, 2020*)               N/T                 mg/tab
+  10      7-Acetoxymitragynine                C₂₅H₃₂N₂O₆             HPLC (Adapted Mudge & Brown, 2020*)               N/T                 mg/tab
+  11      9-Fluoro-7-hydroxymitragynine       C₂₃H₂₉FN₂O₅            HPLC (Adapted Mudge & Brown, 2020*)               N/T                 mg/tab
+                                                                                                                      8.18%                mg/tab
+                                                                                         TOTAL ALKALOIDS:
+
+
+
+
+Mitragynine Content:                      12                mg/tab
+                                                                                                     SEAL OF AUTHENTICITY
+          7OH Content:                  N/D                 mg/tab
+                                                                                                      VERIFIED BY:
+
+                                                                                                   Quality Assurance:
+   MGM-15 Content:
+                                        N/D
+                                                            mg/tab
+
+               * Method conforms to AOAC Kratom Working Group SMPRs for mitragynine and 7-OH plus internal lab method MIT-EVO_R2026-PT.
+                       ** Interim LOD for7-Hydroxymitragynine (7-OH) is 1.0ppm and N/D on this COA indicates a value below the LOD.
+  Decision Rule: When statements of conformity are provided, measurement of uncertainty is not taken into consideration when determining those statements.
+                                           Simple acceptance is used. COA results apply to the samples as received.
+                                COA shall not be reproduced except in full without approval of Wonderland Labs. | Page 1 of 1
+
