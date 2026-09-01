@@ -38,8 +38,8 @@ Cumulative since 2018: **201 newly discovered NPS**, **315 identified in samples
 
 **Distinct NPS in circulation per year: 97 → 134. Up 38%.**
 
-**[I] The naive version of "stricter laws bring more molecules" predicts the first
-row rises. It does not.** What rises is how much of the existing catalogue is actually
+**[I] ~~The naive version of "stricter laws bring more molecules" predicts the first
+row rises. It does not.~~ THAT INFERENCE IS WITHDRAWN. See §2a.** What rises is how much of the existing catalogue is actually
 turning up in samples, and how many different compounds are in circulation at once.
 
 **[I] The better description is not that the market invents faster under pressure. It
@@ -52,6 +52,60 @@ That is a **weaker** claim than "prohibition breeds new drugs" and a **harder** 
 answer, because it does not depend on any causal story about chemists reacting to
 statutes. **It only requires that supply persists and variety accumulates, which the
 data shows directly.**
+
+
+## 2a. WITHDRAWN AND CORRECTED, same day, at Puckett's objection
+
+> *"they dont have to invent until the previous track is illegal though"*
+
+**He is right and the sentence struck out above was a bad inference.**
+
+**The argument.** If invention is *triggered* by scheduling rather than running
+continuously, then the rate of new discoveries should track the rate of scheduling —
+not exceed it. **A flat discovery line is therefore exactly what a substitution model
+predicts, provided scheduling activity is also flat.** My §2 treated flatness as
+evidence against substitution. It is evidence against nothing until the scheduling
+rate is checked.
+
+**So it was checked.** Federal Register API, DEA documents matching "Schedules of
+Controlled Substances," per calendar year —
+`exhibits/scheduling_volume/fr_dea_scheduling_docs_by_year.json`:
+
+| Year | FR scheduling documents | New NPS discovered |
+|---|---|---|
+| 2021 | 241 | 27 |
+| 2022 | 221 | 21 |
+| 2023 | 197 | 17 |
+| 2024 | 177 | 20 |
+| 2025 | 232 | 27 |
+
+**2016-2025: mean 208.4, standard deviation 27.3, range 157-244. Scheduling activity
+is flat.**
+
+**Therefore the flat discovery line does not discriminate between the two models at
+all.** Continuous background invention and scheduling-triggered invention both predict
+it. **§2's original claim is withdrawn, and Puckett's model is not damaged by this
+data.**
+
+**And here is where I stop, deliberately.** Those two columns have a same-year Pearson
+correlation of **r = +0.808**. **That is not a result and it will not be used.** n = 5.
+At that size an |r| above 0.8 arises by chance often, and the instability is visible in
+the same data: the two-year lag gives **r = −0.872**, a strong correlation in the
+*opposite* direction from the same five points. **Reporting the +0.808 and omitting the
+−0.872 is precisely the move this case file spent the evening refusing.** The
+Federal Register count is also a crude proxy — it pools proposed rules, final rules,
+temporary orders, notices and corrections.
+
+**What would actually discriminate between the two models:** not annual aggregates but
+**within-year timing**. Under Puckett's model, a new analog should appear in the months
+following the scheduling of *its own scaffold* — brorphine controls preceding
+chlorphine, nitazene core-structure scheduling preceding the orphines, which is exactly
+the sequence CFSRE describes in Finding 16. **That test needs a dated list of first
+discoveries, which is the pull that failed in Finding 16 §7.**
+
+**[I] The strongest honest statement available tonight:** the annual data cannot tell
+these models apart; the class-level narrative in Finding 16 supports Puckett's; and
+the test that would settle it is one blocked pull away.
 
 ## 3. The control problem, stated because it is fatal if ignored
 
@@ -87,9 +141,10 @@ CFSRE says it themselves. At the level of the **whole NPS landscape**, the rate 
 novel appearance is **steady**, because the substitution is a rotation within a roughly
 constant rate of innovation, not an acceleration of it.
 
-**[I] One class dies and another takes its share. The total does not spike, because
-the market was never short of options.** That is worse than an acceleration, not
-better: it means the supply is not being reduced at all, only reshuffled.
+**[I] One class dies and another takes its share. The total does not spike.** Under
+§2a that is equally consistent with a market that only invents when it has to and is
+being made to at a steady rate. **Either way the supply is not being reduced, only
+reshuffled** — which is the part that does not depend on which model is right.
 
 ## 5. Method note: the year that needed two independent reads
 

@@ -207,8 +207,13 @@ seized the first-ever US identification of 5-chloro desmethyl chlorphine in May 
 contradicts the simple version of this case file's own thesis.** CFSRE NPS Discovery,
 NIJ-funded, 2021-2025: new NPS discovered per year runs **27, 21, 17, 20, 27 — flat.**
 But total detections went **>2,700 to >5,700 (+111%)** and distinct NPS in circulation
-per year **97 to 134 (+38%)**. **The market is not inventing faster; nothing ever
-leaves the catalogue.** That is a weaker claim than "prohibition breeds new drugs" and
+per year **97 to 134 (+38%)**. **§2a WITHDRAWS the inference that flatness argues against
+substitution** — Puckett: "they don't have to invent until the previous track is
+illegal." Checked: DEA scheduling documents run 241/221/197/177/232, mean 208, sd 27
+— **also flat**, so the flat discovery line discriminates between the two models not
+at all. The n=5 correlation (r=+0.808 same-year, r=-0.872 at lag 2 from the same five
+points) is computed and **explicitly refused as evidence.** What survives:
+**nothing ever leaves the catalogue.** That is a weaker claim than "prohibition breeds new drugs" and
 a harder one to answer, because it needs no causal story — only that supply persists
 and variety accumulates. §3 handles the control problem head on: CFSRE's own funding
 and capacity grew across the window, so the detection rise is partly capacity — **but

@@ -1,0 +1,18 @@
+# EIGHTFOLD / DEA scheduling-activity volume
+# captured 2026-08-31. Federal Register API v1, no key required.
+#   GET https://www.federalregister.gov/api/v1/documents.json
+#       conditions[term]="Schedules of Controlled Substances"
+#       conditions[agencies][]=drug-enforcement-administration
+#       conditions[publication_date][gte/lte] = each calendar year
+#   The stored value is the API's `count` field per year.
+#
+# 2016:188 2017:157 2018:223 2019:204 2020:244 2021:241 2022:221 2023:197
+# 2024:177 2025:232 2026:162 (partial year)
+# 2016-2025: mean 208.4, population sd 27.3, min 157, max 244.
+#
+# WHAT THIS IS AND IS NOT: a count of Federal Register DOCUMENTS matching that term
+# from that agency. It includes proposed rules, final rules, temporary orders,
+# notices and corrections indiscriminately. It is a crude proxy for "scheduling
+# activity" and FINDING_17 sec 2a uses it only to establish that the volume is
+# roughly STEADY, which is all the argument requires. It is not a count of
+# substances scheduled.
