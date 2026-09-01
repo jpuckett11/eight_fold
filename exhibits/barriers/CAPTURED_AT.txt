@@ -1,0 +1,57 @@
+# EIGHTFOLD / H-09 + H-10 exhibits
+# captured 2026-08-31
+#
+# ncsl_barriers_to_work_criminal_records.pdf/.txt
+#   National Conference of State Legislatures, "Barriers to Work: People with
+#   Criminal Records". 12pp.
+#   Source: https://documents.ncsl.org/wwwncsl/Criminal-Justice/Barriers-to-Work-People-with-Criminal-Records.pdf
+#   VERIFIED FIGURES, quoted in the finding:
+#     - NICCC "catalogs over 15,000 provisions of law in both statute and
+#       regulatory codes that limit occupational licensing opportunities for
+#       individuals [with criminal records]" across 50 states + federal
+#     - "catalogs over 6,000 mandatory occupational licensing consequences for
+#       people with criminal records"
+#     - "Licensed workers now comprise nearly 25 percent of all employed Americans"
+#     - blanket bans: "automatic prohibitions for people with criminal records --
+#       particularly for felony convictions deemed 'violent' or 'serious'"
+#     - "40 percent of ex-offenders do not have a high school degree"
+#
+# DISCREPANCY TO RESOLVE, recorded rather than smoothed over:
+#   A web search summary reported "more than 40,000" total collateral consequences
+#   and "10,000-plus" occupational licensing consequences. NCSL says over 15,000
+#   licensing provisions. These are NOT reconciled. The NICCC homepage does not
+#   carry aggregate counts and niccc.csgjusticecenter.org did not resolve on
+#   2026-08-31. USE THE NCSL FIGURES, which are in a captured document. Treat the
+#   40,000 total as [S] UNVERIFIED until the NICCC database itself is pulled.
+#
+# pubmed_recovery_identity_phenx.xml
+#   42501516 Drug Alcohol Depend 2026: the PhenX Toolkit released 15 recommended
+#   recovery protocols in 2025, including validated measures for RECOVERY IDENTITY
+#   and RECOVERY CAPITAL. This is the measurement route for H-10.
+
+# --- added 2026-08-31, permanence of licensing bars ---
+# niccc_landing_20260831.html
+#   https://niccc.nationalreentryresourcecenter.org/  HTTP 200.
+#   NICCC moved: csgjusticecenter.org/projects/national-inventory-... now 404s,
+#   which is why the earlier session could not resolve it. This is the live host.
+#   The site is CSG Justice Center, funded by BJA (bja.ojp.gov linked in footer).
+#   VERBATIM, quoted in FINDING_06:
+#     "some collateral consequences apply without regard to the relationship
+#      between the crime and opportunity being restricted, such as the revocation
+#      of a business license after conviction of any felony. Frequently
+#      consequences also apply without consideration of the time passed between
+#      the conviction and the opportunity being sought or the person's
+#      rehabilitation efforts since the conviction."
+#
+# fcl_*.html  CSG Justice Center Fair Chance Licensing Project.
+#   https://csgjusticecenter.org/projects/fair-chance-licensing/the-issue/
+#   https://csgjusticecenter.org/projects/fair-chance-licensing/how-states-are-expanding-access-to-work/
+#   VERBATIM: "Nearly 1 in 4 jobs in the U.S. require a government-issued license."
+#   Corroborates the NCSL 25% figure from an independent page.
+#   Carries the Lester Young account quoted in FINDING_06 sec 4.
+#
+# STILL UNRESOLVED: the aggregate NICCC counts. The inventory is a Drupal search
+# UI at /consequences that renders no totals server-side and exposes no JSON
+# endpoint to an unauthenticated fetch. The NCSL figures (15,000+ licensing
+# provisions, 6,000+ mandatory) remain the citable ones. The "40,000 total
+# collateral consequences" figure is STILL [S] UNVERIFIED.

@@ -1,0 +1,50 @@
+Census Bureau, Housing Vacancy Survey (CPS/HVS), captured 2026-08-31 by Aegis.
+
+census_hvs_table19_homeownership_by_age.xlsx
+  https://www.census.gov/housing/hvs/data/histtab19.xlsx
+  HTTP 200, 419246 bytes. Table 19, Homeownership Rates by Age of Householder,
+  quarterly, 1994 Q1 through 2026. Annual figures used in H-11 are unweighted
+  means of the four quarters, computed from this file.
+
+census_hvs_press_2026q2.pdf
+  https://www.census.gov/housing/hvs/files/currenthvspress.pdf
+  HTTP 200, 722443 bytes. Carries the Census data-quality caveat quoted in H-11:
+  "Homeownership data from 2020 was impacted by data collection changes brought
+  about by the COVID-19 pandemic."
+
+--- added 2026-08-31, mortgage credit and default ---
+nyfed_hhdc_2026q2_underlying_data.xlsx / nyfed_hhdc_2026q2_report.pdf
+  https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/xls/HHD_C_Report_2026Q2.xlsx
+  https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2026Q2.pdf
+  HTTP 200, 962992 and 2431619 bytes. Federal Reserve Bank of New York Quarterly
+  Report on Household Debt and Credit, August 2026, from the NY Fed Consumer Credit
+  Panel / Equifax. Sheets used: Page 6 (origination volume by score band),
+  Page 7 (credit score at origination percentiles), Page 14 (new seriously
+  delinquent by loan type), Page 15 (quarterly transition of current mortgages).
+  Annual figures in FINDING_04 are unweighted means of the published quarters,
+  computed by Aegis.
+
+urban_hfpc_chartbook_202604.pdf
+  https://www.urban.org/sites/default/files/2026-04/April%20v4.pdf
+  HTTP 200, 1103239 bytes. Urban Institute Housing Finance Policy Center monthly
+  chartbook, April 2026. Carries the Housing Credit Availability Index, quoted in
+  FINDING_04 sec 3. Sourced by Urban to eMBS, CoreLogic, HMDA and Inside Mortgage
+  Finance.
+
+NOT OBTAINED, and the gap is named in FINDING_04 sec 5:
+  Realized cumulative default by ORIGINATION VINTAGE from the issuers.
+  Freddie Mac's Standard Dataset Summary Statistics is served only through a
+  MicroStrategy BI portal (claritybi.freddiemac.com), not a file. Freddie's
+  Non-Standard summary was retrieved (ARM and other non-standard product, wrong
+  population). The 2Q26 investor supplement pools everything before 2022 into a
+  single "Prior Years" column. Fannie Mae's loan performance data requires
+  registration. datacatalog.urban.org returns HTTP 403 to scripted fetch.
+
+freddie_pmms_historical_weekly.xlsx
+  https://www.freddiemac.com/pmms/docs/historicalweeklydata.xlsx
+  HTTP 200, 218524 bytes. Freddie Mac Primary Mortgage Market Survey, full weekly
+  history from 1971. Columns used: 30-year FRM and 5/1 ARM initial rate. PMMS
+  surveys PRIME CONFORMING lenders only and therefore does not capture subprime
+  2/28 or option-ARM pricing. That limit is stated in FINDING_04 sec 9.
+  Note: fredgraph.csv for MORTGAGE30US timed out twice; PMMS is the issuer primary
+  and was used instead.

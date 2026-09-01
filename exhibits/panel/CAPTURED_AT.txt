@@ -1,0 +1,19 @@
+# EIGHTFOLD / panel and onset exhibits
+# captured 2026-08-31 by Aegis via NCBI E-utilities (esearch + efetch, PubMed).
+#
+# pubmed_37531964_age_of_onset_29countries.xml
+#   Lancet Psychiatry 2023. WHO World Mental Health surveys, 156,331 respondents,
+#   32 surveys, 29 countries. Age-of-onset distributions and cumulative incidence
+#   to age 75 for 13 DSM-IV disorders. Quoted figures verified in this XML.
+#
+# pubmed_nesarc_incidence_batch.xml / pubmed_addhealth_nesarc_batch.xml
+#   Abstract sets for the NESARC Wave 1-2 incidence literature and the Add Health
+#   trajectory literature. Key PMIDs used: 23522830 (3-year incidence range),
+#   26727008 (sex-specific 3-year AUD/DUD incidence), 20018459 (age-at-onset
+#   two-subgroup model, cutoff 22), 28412301 (Add Health, n=12,437, environment vs
+#   dopaminergic genetic risk), 28661782 (Add Health drinking trajectories).
+#
+# LIMIT, STATED: these are PUBLISHED RESULTS, not microdata. NESARC and Add Health
+# individual-level files both require a data use agreement / application and were
+# NOT obtained. Nothing here is an original analysis of either panel. Every number
+# is attributed to its paper.

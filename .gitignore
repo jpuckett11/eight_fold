@@ -1,0 +1,5 @@
+# Nothing here yet. Exhibits are deliberately tracked: the SHA256 manifest is the
+# chain of custody, and a git history of the exhibit bytes is a second one.
+# Do NOT add exhibit patterns here without saying why in the commit message.
+*.tmp
+*~

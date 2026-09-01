@@ -1,0 +1,540 @@
+                                                 OCCUPATIONAL LICENSING
+                                           ASSESSING STATE POLICY AND PRACTICE
+
+
+
+
+                                  Barriers to Work:
+  Improving Employment in Licensed Occupations
+      for Individuals with Criminal Records
+                               BY CHIDI UMEZ, THE COUNCIL OF STATE GOVERNMENTS—JUSTICE CENTER
+                                   REBECCA PIRIUS, NATIONAL CONFERENCE OF STATE LEGISLATURES
+
+Approximately 77 million Americans, or one in three adults, have a criminal record. Hav-           What is an occupational
+ing a criminal record can make it difficult, or even impossible, for an individual to work in      license?
+a given field, especially one that requires an occupational license. In 2014, employment
+                                                                                                    An occupational license is a
+barriers faced by people with felony convictions—including occupational licensing and
+                                                                                                    credential that government—most
+other challenges, such as lower levels of education and job skills—were associated with a
+                                                                                                    often states—requires a worker
+reduction in the overall employment rate. This amounted to a loss of at least 1.7 million
+                                                                                                    to hold in certain occupations.
+workers from the workforce and a cost of at least $78 billion to the economy.1
+                                                                                                    Aspiring workers must meet
+While occupational licensing can create hurdles for certain workers, individuals                    state-specific educational,
+with criminal records can face additional challenges in finding and maintaining                     training, testing and other
+employment—a critical aspect of reducing recidivism. Individuals with criminal records              requirements to practice in a
+face many barriers to licensure including both those codified in federal and state law              licensed profession. Occupational
+and those found in implicit biases. The National Inventory of Collateral Consequences               licenses are mandatory in the
+of Conviction (the NICCC), catalogs over 15,000 provisions of law in both statute and               relevant jurisdiction, intended to
+regulatory codes that limit occupational licensing opportunities for individuals with               set professional standards and
+criminal records2.                                                                                  ensure safety and quality of work,
+                                                                                                    and are time-limited. Violation of
+The increase in licensing requirements and the lack of uniformity of these requirements             the terms of the license can result
+across occupations can have significant costs to individuals with criminal records, society,        in legal action.
+and the economy, in the form of lost hours of labor, higher crime rates, and the lost
+potential of the individual.3
+
+
+                                                                      1                         NATIONAL CONFERENCE OF STATE LEGISLATURES
+                Criminal records (national data)                            Incarceration: Communities
+                                                                            of color most affected
+                                                                                          n African-American males ages 18
+                                                                                          to 19: 11.8 times more likely be im-
+                                                                                          prisoned than white male same age
+
+                                                                              x11.8
+
+                77,000,000
+                Approximate number of American adults
+                                                                                          n African-American females:
+                                                                                          twice as likely as white
+                                                                                          females to be imprisoned
+                — 1 in 3—with a criminal record
+                Source: Bureau of Justice Statistics, 2016                    x2
+                600,000
+                Inmates released each year
+                                                                                          n Hispanics: 856 per 100,000
+                                                                             Source: Bureau of Justice Statistics: Prisoners, 2016
+
+
+
+                Demographic and Economic Information
+                Research shows that among all individuals with criminal records, communities of color are most impacted
+                by incarceration and most put at a disadvantage by their criminal histories when seeking future employ-
+                ment. While African-Americans make up only 12.6 percent of the general population, they constitute 27
+                percent of all arrests. African-American males between the ages of 18 and 19 are 11.8 times more likely
+                to be incarcerated than white men of the same age and African-American females are twice as likely to be
+                imprisoned than white females.4
+
+                Impacts of Occupational Licensing
+                Licensure laws and regulations that are overly burdensome or restrictive create barriers to economic
+                stability for individuals with criminal records. Research has shown that people require a combination
+                of family support, community assistance and economic opportunity to stay out of the criminal justice
+                system.5 Access to employment is a critical component of this web of support, as a steady job provides
+                financial resources and social connections that build motivation.6 However, occupational licensing
+                requirements can be among the most difficult barriers faced by people with criminal records seeking to
+                enter the workforce.
+                For instance, occupational licensing statutes in a number of states have blanket prohibitions on awarding
+                licenses to those with a criminal record. Some states’ laws contain an automatic disqualification, which
+                prohibits a person with a felony conviction from obtaining an occupational license, regardless of whether
+                the offense is directly related to the practice of the occupation or poses a substantive risk to public safety.
+                In addition, licensing laws often contain “good-character” or “good moral character” provisions that grant
+                licensing boards broad discretion to deny applications due to an applicant’s criminal history, including
+                convictions for minor offenses and sometimes arrests that never led to a conviction. Even states that do
+                not have these explicit “good character” provisions in their licensing laws may nonetheless have very
+                minimal restrictions on the ability of licensing boards to reject a license application based largely on the
+                criminal history of an applicant.7
+                The costs associated with licensure can also be a barrier for people with criminal records, particularly
+                those who were formerly incarcerated. The fees related to training, education, acquisition, and mainte-
+                nance of a license are all challenges for the formerly incarcerated, who often have limited income and
+                other court-ordered monetary sanctions that further inhibit their economic standing.
+
+
+
+
+NATIONAL CONFERENCE OF STATE LEGISLATURES                              2
+Occupational licensing                                        Education
+provisions of law
+Across the 50 states and federal
+system, the National Inventory
+
+                                                                                     40%
+of Collateral Consequences of
+
+
+
+
+15,000
+Conviction catalogs more than
+
+
+
+
+                                                               n Licensing often requires a minimum level
+provisions of law (contained both                              of education (plus additional training).
+in statutory and regulatory codes)                             40 percent of ex-offenders do not have a
+that limit occupational licensing                              high school degree.
+opportunities for individuals with                             Source: Turning Shackles into Bootstraps,
+criminal records.                                              Center for the Study of Economic Liberty, 2016
+
+
+
+
+Policy Barriers to Employment
+BLANKET BANS
+Many state licensing laws include some type of blanket disqualification that include automatic prohibitions
+for people with criminal records—particularly for felony convictions that are deemed “violent” or “serious”
+offenses. The National Inventory of Collateral Consequences of Conviction, a searchable database of the
+collateral consequences in all U.S. jurisdictions, catalogs over 6,000 mandatory occupational licensing con-
+sequences for people with criminal records.8 This means that boards have no discretion to grant a license
+or forgo imposing a license penalty if an individual has a disqualifying conviction. For many state leaders, a
+statute that creates an automatic, lifetime ban against anyone with a “violent” felony or a “sex offense” for
+an occupational license may seem reasonable. However, even assuming one’s record is accurate, such cate-
+gories and labels can be misleading if licensing boards do not use due diligence to examine the nature of the
+offense.9 For example, seeing an “assault” on a person’s criminal record may imply a propensity for violence
+but without knowing the circumstances of the offense—such as age, frequency or context—an automatic
+denial could unfairly exclude strong applicants.10 In addition, frequently unreliable background checks also
+present grave challenges in applying blanket bans in licensing decisions. A report by the U.S. Bureau of Jus-
+tice Statistics showed that of the 25.9 million fingerprint records processed by states and territories in 2016,
+44 percent were used for criminal justice purposes and 14,623,300 were used and submitted for licensing,
+employment and regulatory purposes.11 These fingerprint records may include juvenile records, which may
+be confidential, “arrests without disposition” (with no charges or charges with no conviction), expunged or
+sealed records, or information that a person acquired due to misidentification or identity theft.
+
+“GOOD MORAL CHARACTER” CLAUSES
+While public health and safety dictate that some criminal convictions should disqualify applicants for cer-
+tain kinds of jobs, in many cases, a criminal conviction of any kind may be a bar to licensure. Licensing regu-
+lations often refer broadly to “good moral character” as a requirement for holding a license, and in practice
+this has, in many cases, been interpreted to ban individuals with any criminal record.12 Licensing authorities
+in these instances are left to analyze what constitutes “good moral character” without much guidance. This
+may lead to a licensing process that lacks transparency, predictability and consistency, making it harder for
+workers to determine if their past conviction may be disqualifying13 for a certain profession. People with
+criminal records might take on a substantial risk if they invest their time and money to train and meet the
+required educational parameters for an occupation, only to be barred in the licensing process.
+
+
+
+
+                                                       3                              NATIONAL CONFERENCE OF STATE LEGISLATURES
+                COST
+
+                The impact of the cost of occupational licensing requirements is compounded for people who were
+                formerly incarcerated. Individuals and their families experience loss of income during the incarcer-
+                ation period and are then faced with a lack of income to support themselves upon release. Many
+                formerly incarcerated people struggle with homelessness as a result of their inability to obtain stable
+                employment and certain housing restrictions placed on people with criminal records. In Los Angeles
+                and San Francisco, for example, between 30 percent and 50 percent of all parolees are homeless.14
+                In addition, jurisdictions across the country are increasingly assessing fines and fees, called legal
+                financial obligations (LFOs), on people who move through the criminal justice system. These fees
+                require them to pay thousands of dollars, with interest, or face incarceration.15 For instance, in 2016,
+                on average, people in Washington state were sentenced to LFOs of $1,347.16 These fees may include
+                the costs for bench warrants, filings with the clerk, court-appointed attorneys, crime-lab analysis, jury
+                fees, and even incarceration costs. Some states also charge for restitution and the cost of collecting
+                these debts.
+                Looking to gain employment, formerly incarcerated people may decide to invest their time and scarce
+                income in pursuing a licensed occupation and potentially find out after completing the requirements
+                that they are disqualified due to their criminal record. Although licensing requirements vary by state,
+                a person who wants to pursue a career as a licensed barber, for example, may have to pay between
+                $70 and $165, have over a year of education and experience, and complete an average of two ex-
+                ams.17 Because all 50 states and D.C. require a license to work as a barber,18 moving across state lines
+                does not offer relief from these restrictions to licensure in many cases.
+
+                Occupational licensing costs also present a barrier for potential entrepreneurship in licensed occupa-
+                tions for people with criminal records. For example, makeup artists, an occupation that is primarily
+                entrepreneurial in nature, are licensed in 36 states. According to the Institute for Justice, the average
+                cost is $116 in fees, in addition to between three and nine months of education and experience, and
+                two exams.19
+
+
+
+
+NATIONAL CONFERENCE OF STATE LEGISLATURES                           4
+Policy Options
+Occupational licensure requirements can have a range of impacts on individuals with criminal records
+and policymakers across the country are considering ways to address those barriers. The policy options
+reviewed below focus specifically on those relevant to this population, but it is important to note that
+broader reforms can also impact individuals with criminal records. Information on broader tools and
+frameworks that can be used to help refine a state’s regulatory approach are outlined in “The State of
+Occupational Licensing: Research, State Policies and Trends,” available at www.NCSL.org/stateslicense It
+is worth noteing that specific to this population, states’ policies focus on the twin goals of seeking to
+encourage rehabilitation of criminal offenders while also protecting public safety.20
+
+Examples of some common state approaches to licensing policy that impact individuals with criminal
+records are as follows:
+
+Targeted Approches
+RELEVANCY LIMITATIONS
+
+States that favor reform to licensing policies that exclude people with convictions have aimed to “refrain
+from categorically excluding individuals with criminal records, and instead exclude those individuals
+whose convictions are recent, relevant, and pose a threat to public safety.”21 Prohibiting these “blanket
+bans” on occupational licensing for people with criminal records allows licensing entities to consider
+each application on its merits and allow qualified applicants to move into the workforce. Proponents
+argue that it may also allow people with criminal records the opportunity to explain inconsistencies in
+background checks and permit licensing agencies to carefully evaluate information in background checks,
+including an arrest that did not lead to a conviction. More states, including New Jersey and Oklahoma, are
+being clear and explicit in their licensing policies that in cases of denials or revocations based on a criminal
+conviction, the conviction should have a “direct, rational, or reasonable relationship”22 to the duties of the
+occupation
+
+•    Example: At least nine states—Arkansas, California, Connecticut, Illinois, Indiana, Michigan, New
+     York, New Mexico, and Pennsylvania—prevent occupational licensing agencies from considering ar-
+     rests that did not lead to convictions.23 In states like New Hampshire, a licensing agency cannot deny
+     a license on the basis of a prior conviction, unless the agency has considered the nature of the crime
+     and whether there is a direct relationship to the occupation. The agency may also consider factors
+     such as the time since the conviction and rehabilitation efforts.24
+
+MODIFICATION OF MORALITY CLAUSES
+
+In order to create more transparency and fairness in the licensing process and provide licensing entities
+more guidance in their treatment of criminal records, some states have chosen to remove vague and
+broad standards. Examples include “good moral character” and restrictions against “moral turpitude” of-
+fenses to provide more clarity on exclusionary convictions. This also allows potential applicants, with the
+specified offenses, to be more prudent in selecting occupations where those disqualifications are clear.
+
+•    Example: As part of broader efforts on criminal justice reform, lawmakers in Kentucky disallowed
+     licensing boards in the state from requiring that applicants possess vaguely defined “good moral
+     character.”25
+
+ESTABLISHMENT OF PRE-QUALIFICATION STANDARDS
+
+Some states have mandated that licensing entities allow people with criminal records to petition the
+board for a “pre-qualification” opinion. Pre-qualification allows an applicant to get a determination on
+eligibility before going through the licensing application process. In these cases, licensing boards are
+required to explicitly list disqualifying offenses and are able to notify applicants if their particular offense
+will disqualify them from licensure. This process helps to ensure that people with criminal records can
+devote their time and resources into pursuing occupations that will lead to gainful employment.
+
+
+
+                                                        5                            NATIONAL CONFERENCE OF STATE LEGISLATURES
+                •   Example: In 2018, Arizona enacted legislation giving licensure applicants the authority to seek a
+                    predetermination from an agency as to whether the criminal record is a disqualifying offense for an
+                    occupational license.26
+
+                CERTIFICATION OF REHABILITATION
+
+                •   Another policy option chosen by some states is to offer people with criminal records the oppor-
+                    tunity to secure certificates of rehabilitation or certificates of employability that would open the
+                    door to receiving occupational licenses. Although the application of these certificates varies from
+                    state to state, they “may be used to provide a way for qualified people with criminal records to
+                    demonstrate rehabilitation or a commitment to rehabilitation,”27 and to relieve barriers to jobs
+                    and licenses. Certificates of rehabilitation may also be a viable option for states that have yet to
+                    adopt comprehensive record closure laws (expungement/sealing) since some are able to “directly
+                    limit the application of collateral consequences”28 while not removing information from a per-
+                    son’s record or limiting public access.
+
+                •   Example: At least 12 states now make certificates of rehabilitation available through the court
+                    system and a few others through administrative agencies. They include California, Colorado, Illi-
+                    nois, North Carolina, Maryland, New Jersey, New York, Ohio, Rhode Island, Tennessee, Vermont
+                    and Washington.29
+
+                As states consider occupational licensing policy options, data collection can also be an important piece
+                of the governing language. Collecting applicant demographic data can help identify who is excluded from
+                licensed work. Data collection also allows states to understand the effects of the licensing policy and be
+                able to identify and address any gaps that may arise. However, a significant limitation to data collection
+                is the inability to determine who is not applying for a license due to existing regulations or uncertainty of
+                how standards are applied.
+
+
+                Conclusion
+                Recognizing the barriers people with a criminal history face to entering the labor market, state policymak-
+                ers across the country are actively addressing the challenges through legislation and executive orders.
+                Blanket bans, “good moral character” requirements and licensing fees can all be particularly difficult barri-
+                ers for this population to overcome, which may ultimately be restricting a significant portion of workforce
+                supply. Through policy options that include ensuring convictions are recent and relevant, the modifica-
+                tion of statutory morality clauses and the implementation of pre-qualification standards or certificates
+                of rehabilitation, policymakers can reduce unintended barriers to the labor market for individuals with
+                criminal records.
+
+
+
+
+NATIONAL CONFERENCE OF STATE LEGISLATURES                             6
+Selected Recent Actions in the States
+ State   Type              Description                                           Date
+  AZ     Legislation,      H.B. 2290—Authorizes use of provisional               05/01/2017—Signed
+         enacted           licenses for ex-offenders—valid for not more
+                           than one year, as specified by licensing depart-
+                           ment.
+  AZ     Legislation,      S.B. 1436—Authorizes a person with a crim-            04/11/2018—Signed
+         enacted           inal record to seek a predetermination from
+                           an agency as to whether the criminal record
+                           is a disqualifying offense for an occupational
+                           license. Requires a determination—written
+                           findings of facts and conclusions of law—by
+                           the agency within 90 days. Requires an annual
+                           report.
+  AZ     Executive Order   Exec. Order No. 3—Directs each regulatory             3/29/2017—Signed
+                           board to review all licensing requirements,
+                           including whether applicants with criminal
+                           records are completely barred from licensing
+                           or may be denied a license based on character.
+                           Requires boards to report number of appli-
+                           cants, in the past five years, denied a license
+                           due to character concerns related to criminal
+                           history. Exec. Order No. 3
+  CT     Legislation,      H.B. 5764—Prohibits state or national criminal        7/6/2017—Signed
+         enacted           history checks as a prerequisite to licensure for
+                           barbers, hairdresser, cosmeticians.
+  DE     Legislation,      S.B. 59—Allows certain boards to grant a waiv-        6/8/11—Signed
+         enacted           er of convictions determined to be substantial-
+                           ly related to each respective practice. Changes
+                           the waiting period from five years after the dis-
+                           charge of all sentences to five years from the
+                           date of conviction for a felony and Removes
+                           the five-year limitation for misdemeanors in its
+                           entirety.
+  DE     Legislation,      H.B. 97—Relating to cosmetology and barber-           3/8/18—Signed
+         enacted           ing. Modifies the impact of criminal history
+                           on an applicant’s eligibility for licensure by
+                           giving the board discretion to grant waivers
+                           for a felony conviction for crimes committed
+                           against a person where more than three
+                           years have elapsed, and more than two years
+                           have elapsed for other felonies. The Board is
+                           precluded from considering a conviction where
+                           more than 10 years have elapsed since date of
+                           conviction.
+
+
+
+
+                                                7                             NATIONAL CONFERENCE OF STATE LEGISLATURES
+                  State   Type              Description                                          Date
+                   DE     Executive Order   Exec. Order No. 60—Establishes the Delaware          04/20/16—Signed
+                                            Professional Licensing Committee to conduct
+                                            a comprehensive analysis of all commissions,
+                                            boards and agencies, and recommend best
+                                            practices to assist the state in meeting “its twin
+                                            goals” of encouraging public safety and ensur-
+                                            ing residents can enter the occupation of their
+                                            choice. The final committee report outlined
+                                            recommendations to remove unnecessary
+                                            barriers to persons with criminal records.
+                   GA     Legislation,      H.B. 328—Provides greater employment                 05/05/2015—Signed
+                          enacted           opportunities for individuals who have had
+                                            interactions with the criminal justice system.
+                   GA     Legislation,      S.B. 367—Requires professional licensing             04/27/2016—Signed
+                          enacted           boards to consider certain factors relating to
+                                            felonies before denying a license to an ap-
+                                            plicant or revoking a license and to provide
+                                            for probationary licenses for participants in
+                                            accountability courts.
+                    IL    Legislation,      S.B. 1688—Comprehensive criminal justice bill.       8/24/2017—Signed
+                          enacted           Directs department of professional regulation
+                                            to publish an annual report showing number
+                                            of applicants for new licenses, number with
+                                            a criminal conviction, number of applications
+                                            granted and denied, and number granted and
+                                            denied with criminal history record.
+                   IN     Legislation,      H.B. 1245—Allows applicants to seek a deter-         03/21/2018—Signed
+                          enacted           mination, before going through the application
+                                            process, as to whether the individual’s prior
+                                            conviction will disqualify the individual from
+                                            receiving the license or certification.
+
+
+
+
+NATIONAL CONFERENCE OF STATE LEGISLATURES                        8
+State   Type              Description                                              Date
+ KY     Legislation,      S.B. 120—Affords an applicant an opportunity             04/10/2017—Signed
+        enacted           to be heard before the board denies a license
+                          based on a criminal conviction. Repealed sec-
+                          tion 335B.040, which allowed denial of license
+                          on ground of absence of good moral character.
+ MI     Legislation,      H.B. 5216—Requires Department of Correc-                 12/16/2014—Signed
+        enacted           tions to issue a “Certificate of Employability”
+                          if an inmate meets all of the statutory require-
+                          ments.
+OH      Legislation,      S.B. 337—Defines crimes that constitute a                6/26/2012—Signed
+        enacted           “crimes of moral turpitude” for occupational
+                          licensing purposes.
+ NC     Legislation,      H.B. 641—Provides that a Certificate of Relief           6/23/2011—Signed
+        enacted           (issued to an offender as partial relief to collat-
+                          eral sanctions based on a prior conviction) is
+                          a bar to any action alleging lack of due care in
+                          licensing.
+ PA     Executive Order   Exec. Order No. 3 --Directs the Commissioner             ​10/24/2017—Signed
+                          of Professional & Occupational Affairs to work
+                          with regulatory boards to undertake a critical
+                          and comprehensive review of all licensing
+                          requirements and submit a report. Requires
+                          the report to include information on the use of
+                          criminal history bans on licensure in the State
+                          and in regional states.
+WY      Legislation,      S.B. 42—Provides immunity from civil liability           3/14/18—Signed
+        enacted           for licensing boards acting in accordance with
+                          statutory requirements on considering criminal
+                          convictions.
+
+
+
+
+                                                9                               NATIONAL CONFERENCE OF STATE LEGISLATURES
+      Notes
+      1.   Dick M. Carpenter II et al., License to Work: A National Study of Burdens from Occupational Licensing (2nd Edition) (Arlington, Va.: Institute for
+           Justice, November 2017).
+      2.   Council of State Governments Justice Center, “National Inventory of Collateral Consequences of Conviction” (New York, N.Y.: CSG, n.d.) https://
+           niccc.csgjusticecenter.org/.
+      3.   Stephen Slivinski, “Turning Shackles into Bootstraps: Why Occupational Licensing Reform Is the Missing Piece of Criminal Justice Reform”
+           (Tempe, Ariz.: Center for the Study of Economic Liberty at Arizona State University, Nov. 7, 2016).
+      4.   U.S. Department of Justice, Prisoners in 2016 (Washington, D.C.: U.S. Department of Justice Office of Justice Programs, Bureau of Justice
+           Statistics, January 2018).
+      5.   National Employment Law Project (NELP), “Research Supports Fair Chance Policies” (New York, N.Y.: NELP, April 2015).
+      6.   National Reentry Resource Center, “The Consideration of Criminal Records in Occupational Licensing” (New York, N.Y.: NRRC, December 2015).
+      7.   Slivinski, “Turning Shackles into Bootstraps: Why Occupational Licensing Reform Is the Missing Piece of Criminal Justice Reform.”.
+      8.   Council of State Governments Justice Center, “National Inventory of Collateral Consequences of Conviction.”
+      9.   Michelle Navidad Rodriguez and Beth Avery, “Unlicensed & Untapped: Removing Barriers to State Occupational Licenses for People with
+           Records” (New York, N.Y.: National Employment Law Project, April 2016).
+      10. Ibid.
+      11. Becki R. Goggins and Dennis A. DeBacco, “Survey of State Criminal History Information Systems” (Washington, D.C.: U.S. Department of Juc-
+          tice, February 2018).
+      12. U.S. Department of the Treasury, Occupational Licensing: A Framework for Policymakers (Washington, D.C.: Department of the Treasury Office
+          of Economic Policy, the Council of Economic Advisers, and the Department of Labor, July 2015).
+      13. Rodriguez, “Unlicensed & Untapped: Removing Barriers to State Occupational Licenses for People with Records.”
+      14. California State Department of Corrections, Preventing Parolee Failure Program: An Evaluation (Sacramento, Calif.: California State Depart-
+          ment of Corrections, 1997), https://www.ncjrs.gov/pdffiles1/Digitization/180542NCJRS.pdf.
+      15. Alexes Harris, A Pound of Flesh: Monetary Sanctions as Punishment for the Poor (New York, N.Y.: Russell Sage, 2016).
+      16. Alana Semuels, “The Fines and Fees That Keep Former Prisoners Poor,” The Atlantic (July 5, 2016).
+      17. Carpenter, License to Work: A National Study of Burdens from Occupational Licensing.
+      18. Ibid.
+      19. Emily Fetsch, “No Bars: Unlocking the Economic Power of The Formerly Incarcerated” (Topeka, Kan.: Kansas Center for Economic Growth,
+          November 2016).
+      20. Haw. Rev. Stat. § 831-3.1; Tenn. Code § 40-29-107.
+      21. Fetsch, “No Bars: Unlocking the Economic Power of The Formerly Incarcerated.”
+      22. Center for the Study of Social Policy, “Remove Barriers to Employment for Ex-Offenders” (Washington, D.C.: Center for the Study for Social
+          Policy, n,d,).
+      23. Ark. Code § 17-1-103; Cal. Bus. & Prof. Code § 480; Conn. Gen. Stat. sec. § 46a-80; Ill. Pub. Act 100-286 (eff. 1/1/18); Ind. Code §§25-1-1.1-6;
+          36-1-26 (effective 11/1/18); Mich. Comp. Laws § 338.43; N.M. Stat. § 28-2-3; N.Y. Exec. Law § 296 (16); 18 Pa. Cons. Stat. § 9124.
+      24. N.H. Stat. § 332G:10.
+      25. Kentucky 2017 Senate Bill 120.
+      26. Arizona 2018 Senate Bill 1436.
+      27. Legal Action Center, “Advocacy Toolkit—Certificates of Rehabilitation” (New York, N.Y.: Legal Action Center, n.d.).
+      28. Margaret Love, Josh Gaines, and Jenny Osborne, Forgiving and Forgetting in American Justice: A 50-State Guide to Expungement and Resto-
+          ration of Rights, (n.p.: Collateral Consequences Resource Center, April 2018), 15; http://ccresourcecenter.org/wp-content/uploads/2017/10/
+          Forgiving-Forgetting-CCRC-Apr-2018.pdf.
+      29. Ibid.
+
+
+
+
+NATIONAL CONFERENCE OF STATE LEGISLATURES                                    10
+                              OCCUPATIONAL LICENSING: BARRIERS TO WORK SERIES
+
+This series of four publications is part of the Occupational Licensing: Assessing State Policy and Research
+Project. These documents focus on the unique challenges and barriers specific to four population groups
+  when they wish to enter a licensed occupation and practice a licensed occupation across state lines.
+Each report outlines specific state policy options to address the unique challenges faced by the individual
+                                                 population.
+
+                                                  Overview of Occupational Licensing
+
+  Occupational licensure is a form of government regulation that requires a worker to hold a credential
+  to practice or operate in a certain occupation. To receive an occupational license, applicants are often
+ required to meet specific criteria in the form of education or training, fees, and testing. Licensing boards
+ generally granted the authority to establish these requirements and are the final arbiter of market entry
+for a licensed occupation. These boards are usually comprised of a combination of industry professionals
+                                              and state officials.
+
+Licensed workers now comprise nearly 25 percent of all employed Americans. States vary not only in the
+share of workers with a license, but also in the requirements to obtain a license in the state. While licens-
+ing laws were created with the intent of protecting public health and safety, research suggests that some
+      licensing can have negative consequences for job growth, employment and consumer prices.
+
+           Licensing regulations have created unique barriers and challenges for certain populations
+          who are entering the labor market or moving across states lines. This Barriers to Work series
+                      focuses on the specific barriers for four different population groups:
+
+                                              •      Immigrants with work authorization
+
+                                              •      Individuals with criminal records
+
+                                              •      Long-term unemployed persons
+
+                                              •      Veterans and military spouses
+
+
+
+    Occupational Licensing Learning Consortium
+
+    In 2017, the U.S. Department of Labor’s Employment and Training Administration awarded the Na-
+    tional Conference of State Legislatures, in partnership with The Council of State Governments and
+    the National Governors Association Center for Best Practices, funding on a three-year project to:
+    1) ensure that existing and new licensing requirements are not overly broad or burdensome and
+    don’t create unnecessary barriers to labor market entry; and 2) improve the portability for selected
+    occupational licenses across state lines. The national partners are producing research, including
+    these reports, convening state policymakers and experts in the field of occupational licensing, and
+    delivering technical assistance to states. Through a competitive application process, 11 states were
+    selected to participate in the consortium. Those 11 states are: Arkansas, Colorado, Connecticut,
+    Delaware, Illinois, Indiana, Kentucky, Maryland, Nevada, Utah and Wisconsin.
+
+
+
+
+These workforce products are funded by a grant awarded by the U.S. Department of Labor’s Employment and Training Administration. The products
+are created by the National Conference of State Legislatures (NCSL) and do not necessarily reflect the official position of the U.S. Department of Labor.
+The Department of Labor makes no guarantees, warranties, or assurances of any kind, express or implied, with respect to such information, including
+any information on linked sites and including, but not limited to, accuracy of the information or its completeness, timeliness, usefulness, adequacy,
+continued availability, or ownership. These products are copyrighted by NCSL.
+                                                              NCSL Contact:
+                                                           Luke Martel
+                                                          Group Director
+                                              Employment, Labor & Retirement Program
+                                                          303-856-1470
+                                                      Luke.Martel@ncsl.org
+
+
+
+
+                                      NATIONAL CONFERENCE OF STATE LEGISLATURES
+
+
+                                                  William T. Pound, Executive Director
+7700 East First Place, Denver, Colorado 80230, 303-364-7700 | 444 North Capitol Street, N.W., Suite 515, Washington, D.C. 20001, 202-624-5400
+                                                               www.ncsl.org
+                    © 2018 by the National Conference of State Legislatures. All rights reserved. ISBN 978-1-58024-952-2
+

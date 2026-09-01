@@ -1,0 +1,14 @@
+# EIGHTFOLD / L-05 exhibits
+# captured 2026-08-31
+#
+# usaspending_miechv_awards_all.json
+#   596 award records, Assistance Listing 93.870 (MIECHV), 2021-01-01 to 2027-12-31.
+#   Endpoint: POST https://api.usaspending.gov/api/v2/search/spending_by_award/
+#   Award-level FACE VALUES. This is the usable file.
+#
+# usaspending_miechv_fy2025_by_state.json
+#   RETAINED AS A NEGATIVE EXAMPLE. DO NOT CITE.
+#   Endpoint: POST .../search/spending_by_geography/, FY2025 window.
+#   Sums obligations inside a fiscal-year window, not awards. Reported Mississippi
+#   at $882,329 when its actual current award is $3,983,699. Kept so the failure is
+#   on the record rather than silently dropped -- see L-05 s4.

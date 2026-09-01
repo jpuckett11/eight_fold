@@ -1,0 +1,40 @@
+# EIGHTFOLD anchor exhibit
+# captured 2026-08-31
+#
+# SAMHSA, 2024 National Survey on Drug Use and Health, Annual National Report.
+# https://www.samhsa.gov/data/sites/default/files/reports/rpt56287/2024-nsduh-annual-national-report.pdf
+#
+# Verified from this document, not from recollection or secondary reporting:
+#   48.4 million people aged 12+ (16.8%) had an SUD in the past year
+#   27.9M alcohol use disorder, 28.2M drug use disorder, 7.7M both
+#   52.6 million (18.2%) NEEDED substance use treatment
+#   5.9 million (12.3%) RECEIVED it
+#   42.4 million (87.7%) DID NOT
+#   severe SUD: only 27.9% (2.9M) received treatment -> ~72% of severe got nothing
+#   moderate: 11.8% received.  mild: 6.4% received.
+#   SUD prevalence showed NO CHANGE 2021 to 2024.
+#
+# CAVEAT ON TRENDS, from the report itself: treatment questions were revised for
+# the 2022 and again for the 2024 NSDUH, so "4 years of data are not available to
+# assess trends in the receipt of substance use treatment." Do not trend this.
+
+--- added 2026-08-31 ---
+2024_nsduh_detailed_tables.zip
+  https://www.samhsa.gov/data/sites/default/files/reports/rpt56484/NSDUHDetailedTabs2024/NSDUHDetailedTabs2024/2024-nsduh-detailed-tables-072325.zip
+  HTTP 200, 2661032 bytes, 33 files. Linked from
+  https://www.samhsa.gov/data/report/2024-nsduh-detailed-tables (HTTP 200).
+  Contains Table 5.3B, SUD by DETAILED age category, which the national report
+  does not carry. Retrieved because the report collapses every adult over 25 into
+  a single "26 or Older" row.
+
+2024_nsduh_detailed_tables_sect5pe.htm
+  Section 5 percentage estimates, extracted from the zip above. Tables 5.3B and
+  5.14B are quoted in FINDING_03.
+
+2019_nsduh_annual_national_report.pdf
+  https://www.samhsa.gov/data/sites/default/files/reports/rpt29393/2019NSDUHFFRPDFWHTML/2019NSDUHFFR1PDFW090120.pdf
+  HTTP 200, 2976520 bytes. Pulled 2026-08-31 to date the bracket convention:
+  does the finer adult split predate 2024, and was it always mental-health only?
+  It does, and it was. Counts: "26 or Older" 202, "26 to 49" 57, "50 or Older" 63,
+  "26 to 34" 0, "35 to 49" 0. Every "26 to 49" instance sits in an MDE, AMI or SMI
+  passage.

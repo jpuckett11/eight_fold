@@ -1,0 +1,4 @@
+0 9 * * * /home/obsidian/case_log/aibox-research/canary_monitor.sh > /dev/null 2>&1
+17 7,19 * * * /usr/bin/python3 /home/obsidian/case_sevenfold/tools/watch_ca6_26-3648.py >> /home/obsidian/case_sevenfold/tools/cron.out 2>&1
+23 6,11,16,21 * * * /usr/bin/python3 /home/obsidian/case_sevenfold/tools/watch_nd_kratom.py >> /home/obsidian/case_sevenfold/tools/cron.out 2>&1
+41 8,20 * * * /usr/bin/python3 /home/obsidian/case_sevenfold/tools/watch_ca10_26-4060.py >> /home/obsidian/case_sevenfold/tools/cron.out 2>&1
