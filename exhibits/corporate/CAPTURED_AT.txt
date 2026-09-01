@@ -1,0 +1,29 @@
+# EIGHTFOLD / corporate fraud-against-government exhibits
+# captured 2026-08-31.
+#
+# doj_civil_fraud_statistics_1987_2024.pdf/.txt
+#   https://www.justice.gov/opa/media/1384546/dl   HTTP 200, 136,289 bytes.
+#   "FRAUD STATISTICS - OVERVIEW, October 1, 1986 - September 30, 2024",
+#   Civil Division, U.S. Department of Justice. PRIMARY.
+#   Four sections; settlements-and-judgments totals read directly from the tables:
+#     OVERVIEW (all False Claims Act)      $78,324,115,560
+#     HEALTH AND HUMAN SERVICES            $54,002,728,975
+#     DEPARTMENT OF DEFENSE                 $7,076,758,774
+#     OTHER (non-HHS, non-DoD)             $17,244,627,810
+#   New matters over the period: 7,168 non-qui-tam and 16,945 qui tam.
+#
+# doj_press_release_queries/*.json
+#   https://www.justice.gov/api/v1/press_releases.json?pagesize=6&title=<query>
+#   One file per defendant queried. These are DOJ's own press-release records.
+#   Used in FINDING_11 to establish that each opioid-settlement defendant has a
+#   PRIOR federal enforcement record. Titles are quoted from these files.
+#
+# LIMITS, STATED:
+#   - FCA totals are AMOUNTS RECOVERED, not amounts defrauded. The sums taken are
+#     unknown and larger. Every figure here is a FLOOR.
+#   - The press-release search matches TITLES only. Absence of a hit is NOT evidence
+#     a company has no record; it may mean the title is worded differently. No
+#     negative is claimed anywhere in FINDING_11.
+#   - Good Jobs First Violation Tracker, the comprehensive corporate penalty
+#     database, returns a Cloudflare "Just a moment..." interstitial to scripted
+#     fetch. It would give per-company totals. Needs a browser.

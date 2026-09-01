@@ -112,3 +112,16 @@ FY2025 alone** (GAO-26-108694) against **$58.58B** for the entire 20-year settle
 — **the government mis-pays the whole settlement every ~115 days**, and the 24
 employment-titled SAMHSA grants equal about **three and a half hours** of it. Keeps
 "improper" distinct from "stolen."
+
+## Finding 11 — The same names
+`FINDING_11_the_same_names.md` — **CONFIRMED [P] from DOJ's own records.** False
+Claims Act settlements and judgments 1987-2024: **$78.32B total, $54.00B from health
+care alone** — the health care figure is **0.92x the entire $58.58B opioid
+settlement**. These are amounts **RECOVERED, not taken**; 16,945 of 24,113 matters
+began as whistleblower suits, so the real sum is unknown and larger. **Every opioid
+settlement defendant checked has a prior federal enforcement record** — McKesson,
+AmerisourceBergen, Cardinal, Walgreens, J&J, Allergan, Teva, Purdue, Kroger, CVS —
+and **Walmart agreed to pay $50M for illegally filling unlawful opioid prescriptions
+on 2026-08-28, three days ago.** Corrects the framing of Finding 10 §5, which measured
+improper payments when Puckett meant corporate fraud. Keeps "recovered", "alleged" and
+"stolen" distinct.
