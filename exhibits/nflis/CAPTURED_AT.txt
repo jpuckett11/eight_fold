@@ -1,0 +1,24 @@
+# EIGHTFOLD / NFLIS new-substance alerts
+# captured 2026-08-31. Source: https://www.nflis.deadiversion.usdoj.gov/
+# DEA Diversion Control Division, National Forensic Laboratory Information System.
+# Files under https://www.nflis.deadiversion.usdoj.gov/nflisdata/docs/
+#
+# SIX "New Substance Public Alert" PDFs linked from the NFLIS front page on the
+# capture date, all HTTP 200. DEA document IDs run DEA-SFL1-DOSE-26-002 through
+# -006, so the 2026 series is at least six substances.
+#
+#   March 2026   JWH-018-S                                (synthetic cannabinoid)
+#   March 2026   sec-butyl butylone                       (cathinone)
+#   May 2026     5-Chloro Desmethyl Chlorphine            (benzimidazolone opioid)
+#   June 2026    N-Propionitrile 5-Chloro Desmethylbrorphine (benzimidazolone opioid)
+#   July 2026    4-Fluoro-3-methyl diethylcathinone       (cathinone)
+#   August 2026  Fluoprazolam                             (designer benzodiazepine)
+#
+# nflis_snapshot_2025q1.pdf -- NFLIS quarterly snapshot, 2025 Q1, for baseline
+# reporting volume.
+#
+# LIMIT, AND IT IS THE KEY ONE FOR ANY TREND CLAIM: these six are the alerts the
+# front page happened to be linking on one day. The full historical alert series
+# renders client-side on publicationsRedesign.xhtml (JSF) and did NOT come back in
+# the served HTML. A COMPLETE, DATED SERIES IS REQUIRED before any correlation
+# against scheduling actions is computed, and it is not in this directory.

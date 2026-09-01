@@ -171,3 +171,17 @@ guideline; FDA and CDC issued corrections weeks later. **§4 carries the challen
 who lost legitimate treatment and died** — the cohorts are insured-population only, so
 the harms are visible for the least vulnerable people affected. Answers Puckett's
 question of Finding 13 and is the spine connecting SEVENFOLD 55 and 56 to EIGHTFOLD.
+
+## Finding 15 — The instrument exists
+`FINDING_15_the_instrument_exists.md` — **CONFIRMED [P].** The 2022 CDC guideline
+concedes in its own text that policies "purportedly drawn from" the 2016 version were
+"notably inconsistent with it," naming **rapid tapers, abrupt discontinuation, rigid
+dosage thresholds, insurer and pharmacy duration limits, and "patient dismissal and
+abandonment."** And DEA's own NFLIS publishes a dated new-molecule series: **six New
+Substance Public Alerts in 2026** (IDs DOSE-26-002 to -006), including two
+benzimidazolone opioids **sold as fentanyl** — one seized by **Knoxville PD**, one with
+**no CAS number yet** — and a designer benzodiazepine found in 500g at a California
+pill press that **is not a controlled substance.** **§5 assesses Puckett's estimation
+proposal and rejects the age-bracket half using his own METHOD rule**, specifying the
+interrupted-time-series design that would work, with the detection control it needs.
+No correlation is computed.
