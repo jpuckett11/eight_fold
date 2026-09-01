@@ -1,0 +1,200 @@
+{
+ "opioid receptor": {
+  "projects": 1446,
+  "dollars": 883808525,
+  "top_ic": [
+   [
+    "NIDA",
+    505487121
+   ],
+   [
+    "NINDS",
+    96298951
+   ],
+   [
+    "NIAAA",
+    64166759
+   ]
+  ]
+ },
+ "medication opioid use disorder": {
+  "projects": 2417,
+  "dollars": 1517663401,
+  "top_ic": [
+   [
+    "NIDA",
+    1143451242
+   ],
+   [
+    "NIAAA",
+    71986025
+   ],
+   [
+    "NINDS",
+    44108751
+   ]
+  ]
+ },
+ "buprenorphine": {
+  "projects": 603,
+  "dollars": 461509047,
+  "top_ic": [
+   [
+    "NIDA",
+    406057558
+   ],
+   [
+    "NIAAA",
+    25346866
+   ],
+   [
+    "NIMH",
+    3988861
+   ]
+  ]
+ },
+ "naloxone": {
+  "projects": 418,
+  "dollars": 308544094,
+  "top_ic": [
+   [
+    "NIDA",
+    272057844
+   ],
+   [
+    "NCATS",
+    12462236
+   ],
+   [
+    "NHLBI",
+    5878210
+   ]
+  ]
+ },
+ "recovery housing": {
+  "projects": 170,
+  "dollars": 90029819,
+  "top_ic": [
+   [
+    "NIDA",
+    29506629
+   ],
+   [
+    "NIMH",
+    7586846
+   ],
+   [
+    "NICHD",
+    6124252
+   ]
+  ]
+ },
+ "supported employment": {
+  "projects": 86,
+  "dollars": 39704642,
+  "top_ic": [
+   [
+    "NIMH",
+    7380447
+   ],
+   [
+    "NCI",
+    5957290
+   ],
+   [
+    "NHLBI",
+    5173916
+   ]
+  ]
+ },
+ "employment substance use disorder": {
+  "projects": 159,
+  "dollars": 78596325,
+  "top_ic": [
+   [
+    "NIDA",
+    39586874
+   ],
+   [
+    "NIMH",
+    13713288
+   ],
+   [
+    "NIAAA",
+    5851580
+   ]
+  ]
+ },
+ "peer recovery support": {
+  "projects": 315,
+  "dollars": 178495972,
+  "top_ic": [
+   [
+    "NIDA",
+    63526212
+   ],
+   [
+    "NIMH",
+    29547794
+   ],
+   [
+    "NIAAA",
+    13387624
+   ]
+  ]
+ },
+ "recovery capital": {
+  "projects": 92,
+  "dollars": 72450074,
+  "top_ic": [
+   [
+    "NIDA",
+    20202133
+   ],
+   [
+    "NIMH",
+    13878756
+   ],
+   [
+    "NIGMS",
+    5906006
+   ]
+  ]
+ },
+ "contingency management": {
+  "projects": 184,
+  "dollars": 110643164,
+  "top_ic": [
+   [
+    "NIDA",
+    67655250
+   ],
+   [
+    "NIAAA",
+    13958952
+   ],
+   [
+    "NIAID",
+    6349606
+   ]
+  ]
+ },
+ "occupational licensing": {
+  "projects": 38,
+  "dollars": 44818551,
+  "top_ic": [
+   [
+    "NIAID",
+    9191742
+   ],
+   [
+    "NINDS",
+    8862012
+   ],
+   [
+    "NICHD",
+    5364728
+   ]
+  ]
+ }
+}

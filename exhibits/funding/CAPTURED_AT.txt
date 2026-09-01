@@ -1,0 +1,29 @@
+# EIGHTFOLD / funding exhibits
+# captured 2026-08-31 by Aegis. NIH RePORTER API v2, no key required.
+#
+#   POST https://api.reporter.nih.gov/v2/projects/search
+#   criteria.fiscal_years = [2024, 2025]
+#   advanced_text_search.operator = "and"
+#   advanced_text_search.search_field = "projecttitle,abstracttext,terms"
+#   paginated at limit=500 until meta.total reached
+#
+# nih_reporter_pull.py     the exact script used. Re-runnable.
+# nih_reporter_terms.txt   the eleven search terms.
+# nih_reporter_*_rows.json full result rows; *_summary.json the aggregates.
+#
+# CONTROLS RUN BEFORE ANY NEGATIVE WAS REPORTED:
+#   "opioid"    -> 4,778 projects      "addiction" -> 5,434 projects
+#   The search works. Low counts elsewhere are real, not a broken query.
+#
+# TWO INSTRUMENT DEFECTS FOUND AND CARRIED INTO THE FINDING:
+#
+# 1. "occupational licensing" returned 38 projects and $44.8M and is 100% NOISE.
+#    Zero of the 38 mention licensing in the title; top institutes are NIOSH,
+#    NHLBI, NICHD. "occupational" matches occupational health, "licensing" matches
+#    technology-transfer boilerplate in abstracts. THE FIGURE IS DISCARDED. It is
+#    kept here as the reason every other number in this pull got a title check.
+#
+# 2. VA AWARD AMOUNTS ARE ABSENT FROM REPORTER, NOT ZERO.
+#    253 VA projects in this corpus, 0 with a nonzero award_amount, against 2,098
+#    NIDA projects of which 2,098 have one. Every dollar total here therefore
+#    undercounts the VA to zero. VA project COUNTS are usable; VA dollars are not.

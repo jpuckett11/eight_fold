@@ -56,3 +56,17 @@ CSG's "nearly 1 in 4 jobs"). Ties to Finding 02: the mechanism the recovery evid
 supports is self-support, and this is the largest legal obstruction to it. Opened on
 Puckett's statement that a young adult who changes his life should not pay for the
 rest of it.
+
+## Finding 07 — Who is trying
+`FINDING_07_who_is_trying.md` — **CONFIRMED [P], controls run.** NIH RePORTER FY2024-25:
+pharmacology and medication research draws **$3,172M raw / $1,205M title-confirmed**
+against **$459M / $69M** for recovery housing, employment, peer support and recovery
+capital combined — **between 6.9 and 17.4 to one.** Recovery housing, the intervention
+with a randomized **+$29,000/person** cost-benefit result, gets **$3.8M** across two
+fiscal years; `oxford house` returns **nine projects**. Who is trying: two dozen
+academic groups on $1-6M grants, and **the VA**, which runs 7 of the 17
+employment-specific projects and **reports every one at $0** — a RePORTER artifact
+(253 VA projects, none with an award amount) that makes the largest employment-based
+recovery program in the federal government invisible to any dollar-weighted analysis.
+**Excludes SAMHSA block grants and the ~$50B opioid settlement, which is the next pull.**
+Also records a discarded 100%-noise result that would have flattered the thesis.
