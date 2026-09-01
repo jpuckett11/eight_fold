@@ -185,3 +185,19 @@ pill press that **is not a controlled substance.** **§5 assesses Puckett's esti
 proposal and rejects the age-bracket half using his own METHOD rule**, specifying the
 interrupted-time-series design that would work, with the detection control it needs.
 No correlation is computed.
+
+## Finding 16 — A recurring pattern
+`FINDING_16_a_recurring_pattern.md` — **CONFIRMED [P].** The Colombo Plan Health Alert
+of February 2026, issued by CFSRE's NPS Discovery with NMS Labs, states the sequence
+outright: China schedules fentanyl compounds class-wide **May 2019** → nitazenes appear
+worldwide; brorphine emergency-controlled in EU/UK/US/Canada → **"This regulatory
+response appears to have accelerated structural diversification"**; China schedules the
+nitazene core structure **July 2025** → the orphines appear and nitazenes decline.
+Their words: **"This appears to be a recurring"** pattern. DEA scheduled four orphines
+on **2026-08-27** and in the same order admitted screening methods "may not yet be able
+to identify" them, so fatalities "have likely occurred without report" — **SEVENFOLD
+Finding 56 in the government's own voice.** The one published case: a man who inhaled
+what he believed was **alprazolam** and got N-propionitrile chlorphine, fentanyl and
+xylazine. **Fentanyl co-positivity is most frequent in Tennessee**, and Knoxville PD
+seized the first-ever US identification of 5-chloro desmethyl chlorphine in May 2026.
+§7 records that the full NFLIS alert series was NOT obtained and why.

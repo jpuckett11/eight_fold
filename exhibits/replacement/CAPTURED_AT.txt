@@ -1,0 +1,28 @@
+# EIGHTFOLD / scheduling-then-replacement exhibits
+# captured 2026-08-31. All HTTP 200.
+#
+# cfsre_colombo_plan_orphine_alert_202602.pdf
+#   https://www.cfsre.org/images/content/reports/public_alerts/Colombo_Plan_Orphine_Alert_Feb_2026_v3.pdf
+#   "COLOMBO PLAN HEALTH ALERT -- February 2026 -- Emerging Global Synthetic Opioid
+#   Threats: Benzimidazol-2-ones - The Orphines". Center for Forensic Science
+#   Research and Education (CFSRE) NPS Discovery, with the Colombo Plan (an
+#   intergovernmental organisation) and NMS Labs.
+#
+# cfsre_public_alert_n_propionitrile_chlorphine_20260130.pdf
+#   https://www.cfsre.org/images/content/reports/public_alerts/Public_Alert_N-Propionitrile_Chlorphine_013026.pdf
+#
+# fr_2026-17531_orphine_schedule_i_20260827.txt
+#   https://www.federalregister.gov/documents/full_text/text/2026/08/27/2026-17531.txt
+#   DEA temporary scheduling order, published 2026-08-27 -- FOUR DAYS before capture.
+#   Places 5,6-dichloro brorphine (SR-14968), 5,6-dichloro desmethylchlorphine
+#   (SR-17018), N-propionitrile chlorphine, and spirochlorphine in Schedule I.
+#   Proposed rule was 2026-07-01. Query results in federalregister_orphine_query.json.
+#
+# WHAT WAS NOT OBTAINED, and why:
+#   THE COMPLETE NFLIS PUBLIC ALERT SERIES. The NFLIS front page links only the six
+#   most recent; the full list renders client-side on publicationsRedesign.xhtml
+#   (PrimeFaces 7.0, stateless ViewState) and the served HTML contains ZERO alert
+#   references. A PrimeFaces AJAX POST against substance_form:substances_table
+#   returned HTTP 500. Three attempts to enumerate the series through the Wayback
+#   CDX API failed: web.archive.org timed out at 100s, 135s and 136s on separate
+#   tries. NEEDS A BROWSER. This is recorded so nobody re-runs the same scripts.
