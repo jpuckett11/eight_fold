@@ -22,3 +22,15 @@
 # FINDING_18 sec 5 and no claim rests on it. The written page above corroborates
 # the SUBSTANCE of his recollection independently; it does not confirm the video,
 # the speaker, or the company.
+
+# realbotanicals_products_20260831.json
+#   https://realbotanicals.com/products.json?limit=250   HTTP 200, 332,911 bytes.
+#   Shopify's standard public product feed. 59 products, unmodified capture.
+#   Acend: 16 SKUs at 160mg and 200mg, flavored (Strawberry, Blue Razz, unflavored),
+#   counts of 1, 4, 10, 20, 50, 100. Retail 4ct $35.99 to 100ct $629.99.
+#   B2B variants: Case $1,050.00, Master Case $8,400.00.
+#   15 of 16 Acend SKUs describe "full-spectrum MIT (Mitragyna speciosa)"; ONE
+#   ("Acend Kratom Tablets") says "broad-spectrum". That inconsistency is recorded
+#   in FINDING_18 sec 8 and is NOT resolved here.
+#   No Acend product description discloses mitragynine content in mg or any
+#   alkaloid breakdown; the mg figures appear only in titles and variant names.

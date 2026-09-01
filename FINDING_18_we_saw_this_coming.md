@@ -144,3 +144,89 @@ copy, and it is exactly the kind of item that disappears once it draws attention
    company.
 5. **Watch the page.** It says "More details soon." **The next product is being
    announced on a schedule this file can observe.**
+
+---
+
+## 8. Addendum, same day — what the replacement is, and the better answer to "if that is not predatory what is"
+
+Puckett, on reading §1-3:
+
+> *"if that is not predatory what is"*
+
+**§2 of this finding named the obvious next question — what is Acend — and said it was
+unanswered. It is now answered, from the company's own public product feed**
+(`exhibits/manufacturer/realbotanicals_products_20260831.json`, Shopify's standard
+`/products.json`, 59 products).
+
+### 8a. Acend is concentrated mitragynine [P]
+
+> "Meet Acend, the kratom tablet built on advanced formulation technology... Each
+> tablet delivers **full-spectrum MIT (Mitragyna speciosa)** through **ChromaPure
+> advanced extraction technology**, Real Botanicals' proprietary **pharmaceutical-grade
+> purification** process."
+
+**16 SKUs at 160mg and 200mg.** Flavored **Strawberry** and **Blue Razz**. Sold in
+**1, 4, 10, 20, 50 and 100 counts** — retail $35.99 for four, $629.99 for a hundred.
+Wholesale variants: **Case $1,050.00, Master Case $8,400.00.**
+
+**A discrepancy, recorded rather than smoothed:** **15 of the 16 SKUs say
+"full-spectrum." One says "broad-spectrum."** Those are different claims —
+full-spectrum implies the alkaloid profile is retained, which in *Mitragyna speciosa*
+includes naturally occurring 7-OH. **This file does not know which is accurate and does
+not assert either.**
+
+**And no Acend description discloses milligrams of mitragynine or any alkaloid
+breakdown.** The mg figures appear only in product titles.
+
+### 8b. The mechanism, which is stronger than the word [I]
+
+**SEVENFOLD Finding 27** established, from human liver S9 preparations, PMID 39299374:
+
+> "9-O-demethylmitragynine is a major metabolite formed from mitragynine metabolism
+> (**36 % total metabolism**) and **displays similar pharmacologic activity**."
+
+**SEVENFOLD Finding 56** established that **7-OH is itself both a plant constituent and
+a human metabolite of mitragynine** — the body manufactures it.
+
+**Put those next to the product.** The scheduling action removes the **metabolite**
+from the shelf. **What remains, lawfully, is the precursor** — concentrated by a
+proprietary purification process, flavored, sold in single counts at a gas-station
+price point, with subscribers migrated onto it automatically.
+
+**[I] The consumer takes the parent compound and manufactures the scheduled metabolite
+internally.** That is not a loophole anyone had to invent. **It is what Finding 27 said
+would happen, written as a product line, and it is entirely legal.**
+
+### 8c. On the word
+
+**Puckett's characterisation is defensible and this analyst would use the same word in
+conversation.** But **this case file will not assert "predatory" about a named company
+as a finding**, for two reasons, and they are practical rather than squeamish:
+
+1. **Everything captured is lawful and publicly stated.** An OWG artifact that leads
+   with the word invites a fight about the word instead of about the evidence — the
+   same error the $60M Mullin claim would have caused in SEVENFOLD, and the reason
+   that claim is quarantined.
+2. **The mechanism in §8b is worse than the adjective and cannot be argued with.**
+   "They planned the replacement in advance" is contestable as motive. **"The banned
+   substance is a metabolite of the product that replaced it" is chemistry.**
+
+**What would earn the word on the evidence** is a comparative potency and alkaloid
+analysis of Acend against the scheduled 7-OH products, at labelled dose. **Certificates
+of Analysis are linked from the site footer.** Until that is pulled, the finding is the
+mechanism, not the motive.
+
+### 8d. Action, added
+
+6. **Pull the Acend Certificates of Analysis** and the 7-Hydro COAs, and compare
+   alkaloid profiles at labelled dose. **This is the pull that turns §8b from an
+   inference into a measurement.**
+7. **Resolve full-spectrum versus broad-spectrum.** If "full-spectrum" means retained
+   7-OH, a product marketed as the alternative to a scheduled 7-OH product contains
+   the scheduled compound below threshold, and that is a regulatory question with a
+   name on it.
+8. **Add §8b to the HHS-OASH comment.** The Department asked how a threshold should
+   apply across source material and finished dosage forms. **A 200mg purified
+   mitragynine tablet sold as the compliant successor to a 7-OH tablet is the exact
+   case its threshold has to answer**, and OWG can put it in front of them with the
+   product feed attached.
