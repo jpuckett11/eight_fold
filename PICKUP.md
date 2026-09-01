@@ -259,3 +259,41 @@ not conditions on release.
 **LOOSE END FOR JAY, NOT FOR AEGIS:** `jpuckett11/ObsidianGroup_Eightfold` holds an
 identical copy at the same commit. Aegis created it before Jay made `eight_fold`.
 Deleting it is Jay's call.
+
+## FUNDING THREAD, worked 2026-08-31 evening
+
+Findings 07, 08, 09. **The funding half of EIGHTFOLD's scope is now opened.**
+
+**Three streams, three measurements, one answer.** NIH research splits pharmacology
+against recovery support **7 to 17 : 1**. Indiana's local settlement spending puts
+**2.1%** into employment. SAMHSA's $37.99B in FY2024-25 grants puts **0.19%** into
+awards actually titled as employment programs -- **24 awards, $73.8M, nationally.**
+Finding 02 says self-support is what the recovery evidence tracks. Nobody funds it at
+scale through any of the three doors.
+
+**The one that cuts the other way, and it stands:** state settlement ALLOCATION is
+18% treatment / 14% recovery services, far closer to parity than NIH's ratio. The
+states are allocating nearer to the evidence than the federal research portfolio is.
+
+**TWO KEYWORD ARTIFACTS DISCARDED IN ONE NIGHT**, both of which would have flattered
+the case: NIH "occupational licensing" $44.8M (100% noise, 0/38 on topic) and SAMHSA
+"employment" $4.016B (block grants that merely mention the word). **Standing rule:
+where a database's searchable text is a full abstract, a keyword total measures what
+documents mention, not what money does. Title-restricted figure or nothing.**
+
+### BLOCKED PULLS -- every one is access, not research. Do not re-run as scripts.
+
+| Pull | What it needs |
+|---|---|
+| **KFF/JHU/Shatterproof line-item database** | **A terms-acceptance form with an email. JAY'S CALL, not Aegis's. Not submitted.** Converts Finding 08 from [S] to [P] nationally. |
+| Urban HCAI risk decomposition | Browser. Cloudflare hard-blocks `datacatalog.urban.org`, Ray ID a340ad0fcb8d2b43. |
+| CSG Fair Chance Licensing state counts | Browser. Map is client-side; served HTML is nav + footer. |
+| GSE realized default by vintage | Freddie = MicroStrategy portal; Fannie = account. Still gates "overreaction" [U]. |
+| NESARC / Add Health microdata | Data use agreements. |
+| Arizona FY2023 settlement report | KFF's cited URL now 404s; find the current one. |
+| VA supported-employment spending | FOIA or budget documents. RePORTER reports all VA awards as $0. |
+
+### NEXT, and it does not need anyone's permission
+Pull more state settlement filings **directly**, the way Indiana was pulled, instead
+of waiting on the aggregated database. Massachusetts publishes an annual ORRF report
+and its URL is live in `exhibits/settlement/CAPTURED_AT.txt`.

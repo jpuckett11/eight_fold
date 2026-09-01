@@ -83,3 +83,17 @@ department. **But the allocation cuts against expectation: 18% treatment and 14%
 recovery services (housing, transportation, legal aid) is far closer to parity than
 NIH's 7-to-17:1 in Finding 07.** The states are allocating nearer to what Finding 02's
 evidence supports than the federal research portfolio does.
+
+## Finding 09 — Indiana shows its work
+`FINDING_09_indiana_shows_its_work.md` — **CONFIRMED [P], first primary settlement
+document in the file.** Indiana's own Local Unit of Government Report, 606 units,
+FY2023: **$49.7M received, 489 units (80.7%) reported spending nothing**, **$20.2M
+(53.8% of restricted funds) sitting untouched**, only **$5.01M itemized as spent**.
+**157 units received under $1,000** — the smallest are $0.82 and $2.48, below the
+granularity at which any intervention exists. Of what moved: treatment $2.86M,
+prevention $2.53M, admin/salaries $0.95M, housing $0.73M, police/jail $0.72M,
+**employment $106,686 — 2.1%**. Federally, SAMHSA FY2024-25 is **$37.99B** across
+3,000 grants and only **$73.8M (0.19%)** goes to awards actually titled as employment
+programs. **Discards a $4.016B keyword artifact**, the second such catch of the night.
+Section 7 lists all seven blocked pulls: every one is a login, a form or a browser,
+not a research problem.

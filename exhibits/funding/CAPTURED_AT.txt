@@ -27,3 +27,27 @@
 #    253 VA projects in this corpus, 0 with a nonzero award_amount, against 2,098
 #    NIDA projects of which 2,098 have one. Every dollar total here therefore
 #    undercounts the VA to zero. VA project COUNTS are usable; VA dollars are not.
+
+# --- added 2026-08-31, SAMHSA service-delivery money ---
+# usaspending_samhsa_fy2024_25_awards.json
+#   POST https://api.usaspending.gov/api/v2/search/spending_by_award/
+#   awarding subtier = "Substance Abuse and Mental Health Services Administration"
+#   time_period 2023-10-01 to 2025-09-30, award_type_codes 02/03/04/05 (grants),
+#   paginated to 3,000 awards, $37.99B.
+#
+# INSTRUMENT DEFECT, SAME CLASS AS THE NIH ONE:
+#   USAspending "Description" carries the full project abstract, so keyword matching
+#   over it returns block grants that merely MENTION a topic. Searching "employ*"
+#   returned 430 awards and $4.016B -- but 24 of those are State Opioid Response
+#   block awards carrying $2.073B on their own, and none of them is an employment
+#   program. THE $4B FIGURE IS DISCARDED.
+#   The defensible measure is the PROJECT TITLE (text before the first " - "):
+#   24 awards, $73.8M, and they are genuine supported-employment programs
+#   (LifeWorks, OYEAH, Pascua Yaqui Centered Spirit, Kentucky SEP, NARA NW).
+#
+# BLOCKED, DOCUMENTED RATHER THAN RETRIED FOREVER:
+#   Urban Institute HCAI data catalog -- datacatalog.urban.org returns a Cloudflare
+#   interstitial ("Sorry, you have been blocked", Ray ID a340ad0fcb8d2b43) to
+#   scripted fetch. Confirmed twice. Needs a browser.
+#   CSG Fair Chance Licensing state-by-state maps -- the counts render client-side;
+#   the served HTML contains navigation and footer only. Needs a browser.

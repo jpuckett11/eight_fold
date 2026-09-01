@@ -39,3 +39,24 @@
 #
 # NOT CAPTURED: a figure of "$57.7 billion allocated as of July 10, 2026" appeared
 # in a search-result summary. No primary was retrieved for it. It is NOT used.
+
+# --- added 2026-08-31, PRIMARY state filing ---
+# indiana_local_units_settlement_report_fy2023.xlsx
+#   https://www.in.gov/recovery/files/Attachment-A-Local-Units-of-Govt-Report.xlsx
+#   HTTP 200, 398,643 bytes. State of Indiana, Local Unit of Government Report,
+#   reporting period August 1 2022 - July 31 2023. 606 units, 132 columns.
+#   THIS IS A PRIMARY FILING, NOT SECONDARY REPORTING. Figures derived from it in
+#   FINDING_09 are [P]. It is the first primary settlement expenditure document in
+#   this case file and it was reached directly, not through the KFF database.
+#
+# NOT OBTAINED: the KFF/JHU/Shatterproof line-item database.
+#   https://kffhealthnews.org/download-the-data-opioid-settlement-expenditures/
+#   It is behind a terms-of-use acceptance form requiring an email address. Terms:
+#   data may not be altered, republished, sold or distributed, and use requires
+#   credit to KFF Health News, Johns Hopkins Bloomberg School of Public Health and
+#   Shatterproof. ACCEPTING THOSE TERMS IS JAY'S DECISION, NOT AEGIS'S, and the form
+#   was not submitted. This is the step that would convert FINDING_08 from [S] to [P]
+#   nationally.
+#
+# NOT OBTAINED: Arizona FY2023 state report. The URL cited by KFF
+#   (azag.gov/.../FY2023 STATE REPORT - Revised.xlsx) now returns HTTP 404.
