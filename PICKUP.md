@@ -238,3 +238,19 @@ tree.** That was luck, not design — hence the backup section above.
   carry no time limit and no discretion. The Inventory says "frequently" and does not
   quantify. That number would be the finding. Its Drupal search UI renders no totals
   server-side and exposes no JSON endpoint.
+
+## GIT, added 2026-09-01 01:36 UTC
+
+`case_eightfold` is a git repo. One commit, 67 files tracked, working tree clean.
+Author `Reckoner / Jay Puckett`, no co-author line.
+
+**Remote: `https://github.com/jpuckett11/eight_fold` — PRIVATE, verified before and
+after push. 0 forks, Jay the only collaborator. Remote HEAD matches local.**
+
+**Private is staging, not embargo. Jay: "eight fold will be public in the end."**
+What gates it: "overreaction" is [U] and barred from output; Lester Young is [S];
+the 40,000 collateral-consequences figure is unverified; four open pulls outstanding.
+
+**LOOSE END FOR JAY, NOT FOR AEGIS:** `jpuckett11/ObsidianGroup_Eightfold` holds an
+identical copy at the same commit. Aegis created it before Jay made `eight_fold`.
+Deleting it is Jay's call.
